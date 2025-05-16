@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05733/tiles",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 256
+    }
+  ],
+  "width": 1920,
+  "height": 1080,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 169
+    },
+    {
+      "width": 1920,
+      "height": 1080
+    }
+  ]
+}
