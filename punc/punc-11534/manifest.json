@@ -145,7 +145,7 @@
     ],
     "items": [
         {
-            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11534/canvas/1",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11534/canvas/1",
             "type": "Canvas",
             "height": 1080,
             "width": 1920,
@@ -165,14 +165,14 @@
             ],
             "items": [
                 {
-                    "id": "https://digbmc.github.io/pta-manifests/punc/punc-11534/canvas/1/annopage-1",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11534/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11534/canvas/1/annopage-1/anno-1",
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11534/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://digbmc.github.io/pta-manifests/punc/punc-11534/canvas/1",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11534/canvas/1",
                             "body": {
                                 "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11534/tiles/full/1920,1080/0/default.jpg",
                                 "type": "Image",
