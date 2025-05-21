@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05535/tiles",
+  "id": "https://digbmc.github.io/pta-manifests/punc/punc-05535/tiles",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",

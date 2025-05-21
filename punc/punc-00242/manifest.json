@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/manifest.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00242/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -119,9 +119,21 @@
             "width": 300
         }
     ],
+    "homepage": [
+        {
+            "id": "PUNC-00242",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
     "items": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/canvas/1",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00242/canvas/1",
             "type": "Canvas",
             "height": 1080,
             "width": 1920,
@@ -141,14 +153,14 @@
             ],
             "items": [
                 {
-                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/canvas/1/annopage-1",
+                    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00242/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/canvas/1/annopage-1/anno-1",
+                            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00242/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/canvas/1",
+                            "target": "https://digbmc.github.io/pta-manifests/punc/punc-00242/canvas/1",
                             "body": {
                                 "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/tiles/full/1920,1080/0/default.jpg",
                                 "type": "Image",

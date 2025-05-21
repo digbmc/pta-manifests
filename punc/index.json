@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/index.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00039/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00144/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00144/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00149/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00149/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -45,7 +45,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00156/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00156/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -54,7 +54,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00208/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -63,7 +63,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00212/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00212/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -72,7 +72,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00230/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00230/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -81,7 +81,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00238/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00238/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -90,7 +90,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00240/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00240/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -99,7 +99,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00242/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -108,7 +108,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00245/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00245/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -117,7 +117,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00249/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00249/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -126,7 +126,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00253/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00253/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -135,7 +135,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00255/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00255/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -144,7 +144,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00304/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -153,7 +153,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00318/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -162,7 +162,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00321/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00321/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -171,7 +171,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00355/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00355/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -180,7 +180,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00404/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -189,7 +189,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00415/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -198,7 +198,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00436/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00436/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -207,7 +207,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00517/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -216,7 +216,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00556/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00556/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -225,7 +225,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00602/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00602/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -234,7 +234,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00611/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00611/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -243,7 +243,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00634/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00634/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -252,7 +252,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00645/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00645/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -261,7 +261,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00653/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00653/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -270,7 +270,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00656/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00656/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -279,7 +279,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00705/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00705/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -288,7 +288,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00729/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00729/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -297,7 +297,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00735/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00735/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -306,7 +306,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00749/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00749/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -315,7 +315,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00834/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00834/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -324,7 +324,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00900/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00900/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -333,7 +333,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00905/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -342,7 +342,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00907/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00907/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -351,7 +351,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00917/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00917/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -360,7 +360,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00942/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-00942/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -369,7 +369,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01009/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01009/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -378,7 +378,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01023/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01023/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -387,7 +387,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01046/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01046/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -396,7 +396,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01047/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01047/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -405,7 +405,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01058/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01058/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -414,7 +414,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01121/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01121/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -423,7 +423,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01202/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01202/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -432,7 +432,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01238/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01238/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -441,7 +441,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01303/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01303/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -450,7 +450,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01309/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01309/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -459,7 +459,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01347/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01347/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -468,7 +468,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01350/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01350/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -477,7 +477,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01355/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01355/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -486,7 +486,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01410/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01410/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -495,7 +495,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01419/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01419/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -504,7 +504,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01424/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01424/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -513,7 +513,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01451/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01451/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -522,7 +522,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01545/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01545/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -531,7 +531,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01554/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01554/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -540,7 +540,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01603/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01603/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -549,7 +549,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01620/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01620/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -558,7 +558,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01704/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01704/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -567,7 +567,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01736/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01736/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -576,7 +576,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01830/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01830/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -585,7 +585,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01844/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01844/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -594,7 +594,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01853/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01853/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -603,7 +603,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01903/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-01903/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -612,7 +612,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02034/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02034/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -621,7 +621,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02040/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02040/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -630,7 +630,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02055/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02055/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -639,7 +639,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02110/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02110/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -648,7 +648,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02112/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02112/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -657,7 +657,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02122/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02122/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -666,7 +666,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02127/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02127/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -675,7 +675,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02133/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02133/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -684,7 +684,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02135/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02135/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -693,7 +693,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02139/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02139/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -702,7 +702,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02147/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02147/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -711,7 +711,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02159/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02159/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -720,7 +720,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02208/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02208/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -729,7 +729,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02214/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02214/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -738,7 +738,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02220/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02220/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -747,7 +747,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02237/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02237/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -756,7 +756,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02241/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02241/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -765,7 +765,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02253/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02253/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -774,7 +774,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02259/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02259/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -783,7 +783,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02312/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02312/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -792,7 +792,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02330/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02330/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -801,7 +801,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02354/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02354/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -810,7 +810,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02423/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02423/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -819,7 +819,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02447/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02447/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -828,7 +828,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02507/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02507/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -837,7 +837,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02534/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02534/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -846,7 +846,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02554/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02554/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -855,7 +855,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02609/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02609/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -864,7 +864,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02615/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02615/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -873,7 +873,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02726/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02726/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -882,7 +882,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02738/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02738/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -891,7 +891,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02909/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02909/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -900,7 +900,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02913/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02913/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -909,7 +909,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02924/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02924/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -918,7 +918,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02929/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02929/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -927,7 +927,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02933/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02933/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -936,7 +936,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02940/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02940/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -945,7 +945,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-02947/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-02947/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -954,7 +954,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03003/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03003/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -963,7 +963,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03126/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03126/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -972,7 +972,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03140/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03140/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -981,7 +981,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03143/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03143/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -990,7 +990,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03150/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03150/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -999,7 +999,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03207/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03207/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1008,7 +1008,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03211/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03211/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1017,7 +1017,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03223/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03223/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1026,7 +1026,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03234/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03234/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1035,7 +1035,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03236/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03236/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1044,7 +1044,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03244/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03244/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1053,7 +1053,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03249/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03249/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1062,7 +1062,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03253/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03253/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1071,7 +1071,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03259/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03259/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1080,7 +1080,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03304/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03304/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1089,7 +1089,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03307/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03307/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1098,7 +1098,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03314/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03314/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1107,7 +1107,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03317/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03317/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1116,7 +1116,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03336/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03336/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1125,7 +1125,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03351/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03351/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1134,7 +1134,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03402/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03402/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1143,7 +1143,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03413/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03413/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1152,7 +1152,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03414/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03414/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1161,7 +1161,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03415/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03415/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1170,7 +1170,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03421/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03421/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1179,7 +1179,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03427/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03427/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1188,7 +1188,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03429/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03429/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1197,7 +1197,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03439/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03439/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1206,7 +1206,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03441/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03441/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1215,7 +1215,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03450/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03450/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1224,7 +1224,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03453/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03453/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1233,7 +1233,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03456/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03456/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1242,7 +1242,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03500/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03500/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1251,7 +1251,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03529/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03529/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1260,7 +1260,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03530/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03530/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1269,7 +1269,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03612/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03612/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1278,7 +1278,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03614/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03614/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1287,7 +1287,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03628/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03628/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1296,7 +1296,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03637/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03637/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1305,7 +1305,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03640/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03640/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1314,7 +1314,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03645/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03645/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1323,7 +1323,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03654/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03654/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1332,7 +1332,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03658/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03658/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1341,7 +1341,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03725/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03725/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1350,7 +1350,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03727/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03727/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1359,7 +1359,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03731/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03731/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1368,7 +1368,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03737/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03737/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1377,7 +1377,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03740/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03740/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1386,7 +1386,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03746/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03746/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1395,7 +1395,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03752/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03752/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1404,7 +1404,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03755/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03755/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1413,7 +1413,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03803/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03803/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1422,7 +1422,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03806/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03806/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1431,7 +1431,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03808/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03808/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1440,7 +1440,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03816/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03816/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1449,7 +1449,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03817/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03817/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1458,7 +1458,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03821/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03821/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1467,7 +1467,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03829/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03829/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1476,7 +1476,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03835/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03835/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1485,7 +1485,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03842/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03842/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1494,7 +1494,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03843/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03843/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1503,7 +1503,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03844/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03844/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1512,7 +1512,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03851/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03851/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1521,7 +1521,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03854/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03854/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1530,7 +1530,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03900/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03900/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1539,7 +1539,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03916/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03916/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1548,7 +1548,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03923/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03923/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1557,7 +1557,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03931/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03931/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1566,7 +1566,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03933/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03933/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1575,7 +1575,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03939/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03939/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1584,7 +1584,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03949/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03949/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1593,7 +1593,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03957/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03957/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1602,7 +1602,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03959/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-03959/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1611,7 +1611,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04021/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04021/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1620,7 +1620,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04025/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04025/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1629,7 +1629,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04027/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04027/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1638,7 +1638,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04038/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04038/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1647,7 +1647,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04053/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04053/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1656,7 +1656,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04102/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04102/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1665,7 +1665,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04131/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04131/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1674,7 +1674,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04142/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04142/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1683,7 +1683,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04151/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04151/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1692,7 +1692,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04156/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04156/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1701,7 +1701,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04203/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04203/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1710,7 +1710,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04213/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04213/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1719,7 +1719,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04215/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04215/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1728,7 +1728,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04220/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04220/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1737,7 +1737,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04228/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04228/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1746,7 +1746,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04238/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04238/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1755,7 +1755,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04244/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04244/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1764,7 +1764,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04255/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04255/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1773,7 +1773,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04303/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04303/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1782,7 +1782,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04308/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04308/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1791,7 +1791,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04315/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04315/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1800,7 +1800,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04324/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04324/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1809,7 +1809,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04328/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04328/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1818,7 +1818,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04336/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04336/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1827,7 +1827,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04411/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04411/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1836,7 +1836,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04422/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04422/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1845,7 +1845,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04455/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04455/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1854,7 +1854,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04609/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04609/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1863,7 +1863,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04732/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04732/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1872,7 +1872,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04742/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04742/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1881,7 +1881,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04744/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04744/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1890,7 +1890,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04754/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04754/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1899,7 +1899,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04803/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04803/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1908,7 +1908,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04818/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04818/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1917,7 +1917,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04904/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04904/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1926,7 +1926,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04916/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04916/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1935,7 +1935,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-04939/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-04939/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1944,7 +1944,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05002/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05002/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1953,7 +1953,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05015/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05015/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1962,7 +1962,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05028/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05028/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1971,7 +1971,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05029/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05029/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1980,7 +1980,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05138/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05138/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1989,7 +1989,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05158/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05158/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -1998,7 +1998,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05210/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05210/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2007,7 +2007,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05223/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05223/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2016,7 +2016,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05230/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05230/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2025,7 +2025,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05304/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05304/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2034,7 +2034,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05319/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05319/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2043,7 +2043,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05323/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05323/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2052,7 +2052,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05325/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05325/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2061,7 +2061,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05329/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05329/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2070,7 +2070,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05343/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05343/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2079,7 +2079,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05345/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05345/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2088,7 +2088,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05348/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05348/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2097,7 +2097,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05354/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05354/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2106,7 +2106,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05359/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05359/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2115,7 +2115,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05407/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05407/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2124,7 +2124,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05412/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05412/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2133,7 +2133,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05425/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05425/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2142,7 +2142,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05503/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05503/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2151,7 +2151,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05504/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05504/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2160,7 +2160,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05509/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05509/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2169,7 +2169,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05512/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05512/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2178,7 +2178,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05520/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05520/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2187,7 +2187,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05527/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05527/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2196,7 +2196,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05528/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05528/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2205,7 +2205,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05531/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05531/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2214,7 +2214,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05535/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05535/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2223,7 +2223,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05538/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05538/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2232,7 +2232,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05539/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05539/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2241,7 +2241,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05546/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05546/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2250,7 +2250,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05549/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05549/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2259,7 +2259,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05550/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05550/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2268,7 +2268,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05558/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05558/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2277,7 +2277,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05602/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05602/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2286,7 +2286,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05609/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05609/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2295,7 +2295,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05622/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05622/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2304,7 +2304,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05634/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05634/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2313,7 +2313,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05636/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05636/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2322,7 +2322,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05637/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05637/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2331,7 +2331,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05640/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05640/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2340,7 +2340,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05642/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05642/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2349,7 +2349,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05644/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05644/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2358,7 +2358,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05647/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05647/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2367,7 +2367,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05649/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05649/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2376,7 +2376,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05651/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05651/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2385,7 +2385,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05654/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05654/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2394,7 +2394,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05655/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05655/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2403,7 +2403,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05658/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05658/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2412,7 +2412,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05659/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05659/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2421,7 +2421,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05703/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05703/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2430,7 +2430,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05705/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05705/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2439,7 +2439,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05711/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05711/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2448,7 +2448,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05714/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05714/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2457,7 +2457,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05719/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05719/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2466,7 +2466,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05721/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05721/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2475,7 +2475,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05725/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05725/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2484,7 +2484,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05728/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05728/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2493,7 +2493,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05729/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05729/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2502,7 +2502,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05733/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05733/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2511,7 +2511,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05740/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05740/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2520,7 +2520,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05744/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05744/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2529,7 +2529,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05752/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05752/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2538,7 +2538,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05756/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05756/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2547,7 +2547,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05801/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05801/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2556,7 +2556,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05820/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05820/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2565,7 +2565,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05836/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05836/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2574,7 +2574,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05846/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05846/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2583,7 +2583,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05859/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05859/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2592,7 +2592,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05907/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05907/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2601,7 +2601,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05913/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05913/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2610,7 +2610,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05914/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05914/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2619,7 +2619,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05933/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05933/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2628,7 +2628,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05938/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05938/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2637,7 +2637,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05951/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-05951/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2646,7 +2646,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10011/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10011/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2655,7 +2655,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10017/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10017/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2664,7 +2664,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10021/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10021/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2673,7 +2673,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10036/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10036/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2682,7 +2682,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10052/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10052/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2691,7 +2691,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10054/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10054/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2700,7 +2700,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10106/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10106/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2709,7 +2709,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10115/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10115/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2718,7 +2718,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10116/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10116/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2727,7 +2727,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10120/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10120/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2736,7 +2736,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10132/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10132/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2745,7 +2745,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10136/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10136/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2754,7 +2754,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10141/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10141/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2763,7 +2763,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10153/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10153/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2772,7 +2772,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10200/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10200/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2781,7 +2781,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10209/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10209/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2790,7 +2790,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10227/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10227/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2799,7 +2799,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10241/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10241/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2808,7 +2808,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10256/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10256/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2817,7 +2817,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10302/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10302/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2826,7 +2826,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10313/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10313/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2835,7 +2835,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10314/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10314/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2844,7 +2844,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10326/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10326/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2853,7 +2853,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10329/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10329/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2862,7 +2862,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10338/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10338/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2871,7 +2871,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10340/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10340/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2880,7 +2880,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10423/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10423/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2889,7 +2889,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10448/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10448/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2898,7 +2898,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10516/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10516/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2907,7 +2907,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10524/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10524/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2916,7 +2916,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10552/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10552/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2925,7 +2925,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10607/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10607/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2934,7 +2934,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10617/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10617/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2943,7 +2943,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10629/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10629/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2952,7 +2952,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10637/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10637/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2961,7 +2961,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10639/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10639/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2970,7 +2970,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10641/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10641/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2979,7 +2979,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10644/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10644/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2988,7 +2988,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10645/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10645/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -2997,7 +2997,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10655/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10655/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3006,7 +3006,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10716/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10716/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3015,7 +3015,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10727/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10727/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3024,7 +3024,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10749/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3033,7 +3033,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10755/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10755/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3042,7 +3042,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10806/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10806/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3051,7 +3051,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10822/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10822/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3060,7 +3060,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10844/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10844/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3069,7 +3069,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10905/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10905/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3078,7 +3078,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10915/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10915/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3087,7 +3087,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10934/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10934/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3096,7 +3096,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10952/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10952/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3105,7 +3105,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10957/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10957/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3114,7 +3114,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10959/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-10959/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3123,7 +3123,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11008/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11008/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3132,7 +3132,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11117/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11117/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3141,7 +3141,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11122/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11122/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3150,7 +3150,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11144/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11144/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3159,7 +3159,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11201/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11201/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3168,7 +3168,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11211/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11211/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3177,7 +3177,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11245/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11245/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3186,7 +3186,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11318/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11318/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3195,7 +3195,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11357/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11357/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3204,7 +3204,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11403/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11403/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3213,7 +3213,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11410/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11410/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3222,7 +3222,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11431/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11431/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3231,7 +3231,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11442/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11442/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3240,7 +3240,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11451/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11451/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3249,7 +3249,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11502/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11502/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3258,7 +3258,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11509/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11509/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3267,7 +3267,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11511/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11511/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3276,7 +3276,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11512/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11512/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3285,7 +3285,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11513/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11513/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3294,7 +3294,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11514/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11514/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3303,7 +3303,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11516/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11516/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3312,7 +3312,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11518/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11518/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3321,7 +3321,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11520/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11520/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3330,7 +3330,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11525/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11525/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3339,7 +3339,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11528/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11528/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3348,7 +3348,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11530/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11530/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3357,7 +3357,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11531/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11531/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3366,7 +3366,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11533/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11533/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3375,7 +3375,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11534/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11534/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3384,7 +3384,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11535/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11535/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3393,7 +3393,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11537/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11537/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3402,7 +3402,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11540/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11540/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3411,7 +3411,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11541/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11541/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3420,7 +3420,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11547/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11547/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3429,7 +3429,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11551/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11551/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3438,7 +3438,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11555/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11555/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3447,7 +3447,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11600/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11600/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3456,7 +3456,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11604/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11604/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3465,7 +3465,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11609/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11609/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3474,7 +3474,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11616/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11616/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3483,7 +3483,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11642/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11642/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3492,7 +3492,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11653/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11653/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3501,7 +3501,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11707/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11707/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3510,7 +3510,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11712/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11712/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3519,7 +3519,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11713/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11713/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3528,7 +3528,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11718/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11718/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3537,7 +3537,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11725/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11725/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3546,7 +3546,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11730/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11730/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3555,7 +3555,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11732/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11732/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3564,7 +3564,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11737/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11737/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3573,7 +3573,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11738/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11738/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3582,7 +3582,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11745/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11745/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3591,7 +3591,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11746/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11746/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3600,7 +3600,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11757/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11757/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3609,7 +3609,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11805/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11805/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3618,7 +3618,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11813/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11813/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3627,7 +3627,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11814/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11814/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3636,7 +3636,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11840/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11840/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3645,7 +3645,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11853/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11853/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3654,7 +3654,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11919/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11919/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3663,7 +3663,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11926/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11926/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3672,7 +3672,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11937/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11937/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3681,7 +3681,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11952/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11952/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3690,7 +3690,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-11955/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-11955/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3699,7 +3699,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12002/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12002/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3708,7 +3708,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12011/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12011/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3717,7 +3717,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12014/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12014/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3726,7 +3726,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12019/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12019/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3735,7 +3735,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12021/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12021/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3744,7 +3744,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12025/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12025/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3753,7 +3753,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12039/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12039/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3762,7 +3762,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12055/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12055/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3771,7 +3771,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12112/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12112/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3780,7 +3780,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12118/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12118/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3789,7 +3789,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12123/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12123/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3798,7 +3798,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12135/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12135/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3807,7 +3807,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12146/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12146/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3816,7 +3816,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12201/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12201/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3825,7 +3825,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12212/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12212/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3834,7 +3834,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12216/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12216/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3843,7 +3843,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12226/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12226/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3852,7 +3852,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12232/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12232/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3861,7 +3861,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12250/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12250/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3870,7 +3870,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12252/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12252/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3879,7 +3879,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12332/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12332/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3888,7 +3888,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12349/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12349/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3897,7 +3897,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12358/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12358/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3906,7 +3906,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12400/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12400/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3915,7 +3915,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12408/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12408/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3924,7 +3924,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12415/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12415/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3933,7 +3933,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12423/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12423/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3942,7 +3942,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12430/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12430/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3951,7 +3951,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12441/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12441/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3960,7 +3960,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12448/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12448/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3969,7 +3969,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12457/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12457/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3978,7 +3978,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12620/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12620/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3987,7 +3987,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12635/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12635/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -3996,7 +3996,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12646/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12646/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -4005,7 +4005,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12652/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12652/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -4014,7 +4014,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12656/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12656/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -4023,7 +4023,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12705/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12705/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -4032,7 +4032,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12711/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12711/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -4041,7 +4041,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12723/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12723/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -4050,7 +4050,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12737/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12737/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -4059,7 +4059,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12834/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12834/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -4068,7 +4068,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12935/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12935/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -4077,7 +4077,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-12948/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-12948/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -4086,7 +4086,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-13453/manifest.json",
+            "id": "https://digbmc.github.io/pta-manifests/punc/punc-13453/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
