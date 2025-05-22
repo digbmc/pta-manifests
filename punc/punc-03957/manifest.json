@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00039/manifest.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-03957/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
-            "PUNC-00039"
+            "PUNC-03957"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "none": [
-                    "0:00:39"
+                    "0:39:57"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "none": [
-                    "long shot"
+                    "medium shot"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "none": [
-                    "mobile, handheld"
+                    "mobile, pan, tracking"
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "none": [
-                    "low key"
+                    "high key"
                 ]
             }
         },
@@ -115,28 +115,16 @@
                     "single shot"
                 ]
             }
-        },
-        {
-            "label": {
-                "none": [
-                    "Duration"
-                ]
-            },
-            "value": {
-                "none": [
-                    "long take"
-                ]
-            }
         }
     ],
     "summary": {
         "none": [
-            "A man sits at a desk on the phone, in the corner of an empty room."
+            "A man grips a harmonium."
         ]
     },
     "thumbnail": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles/full/300,169/0/default.jpg",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03957/tiles/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -145,7 +133,7 @@
     ],
     "homepage": [
         {
-            "id": "PUNC-00039",
+            "id": "PUNC-03957",
             "type": "Text",
             "format": "text/html",
             "label": {
@@ -157,18 +145,18 @@
     ],
     "items": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03957/canvas/1",
             "type": "Canvas",
             "height": 1080,
             "width": 1920,
             "label": {
                 "none": [
-                    "PUNC-00039"
+                    "PUNC-03957"
                 ]
             },
             "thumbnail": [
                 {
-                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles/full/300,169/0/default.jpg",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03957/tiles/full/300,169/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 169,
@@ -177,23 +165,23 @@
             ],
             "items": [
                 {
-                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/annopage-1",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03957/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/annopage-1/anno-1",
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03957/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03957/canvas/1",
                             "body": {
-                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles/full/1920,1080/0/default.jpg",
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03957/tiles/full/1920,1080/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1080,
                                 "width": 1920,
                                 "service": [
                                     {
-                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles",
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-03957/tiles",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
