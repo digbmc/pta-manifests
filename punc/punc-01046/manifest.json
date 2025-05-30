@@ -118,6 +118,30 @@
                         }
                     ]
                 }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01046/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01046/canvas/1/9b3220bc-6c49-4974-aa3c-3f6f0f256023",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-05-30T16:45:11.476Z",
+                                    "creator": "Cameron Boucher",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>PTA has spoken of his dream of making a film without dialogue, only image and sound. \"Blossoms &amp; Blood,\" a short film included on the film's DVD release, is one result of this desire (Xixax TV, \"&lt;i&gt;Punch-Drunk Love&lt;/i&gt; - Paul Thomas Anderson interviewed by Elvis Mitchell on KCRW's &lt;i&gt;The Treatment&lt;/i&gt;\").</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-01046/canvas/1#xywh=551,531,197,324"
+                        }
+                    ]
+                }
             ]
         }
     ]
