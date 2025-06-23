@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/index.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/index.json",
     "type": "Collection",
     "label": {
         "none": [
