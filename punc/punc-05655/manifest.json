@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://digbmc.github.io/pta-manifests/punc/punc-05655/manifest.json",
+    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-05655/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -52,7 +52,7 @@
             },
             "value": {
                 "none": [
-                    "medium shot"
+                    "plan américain"
                 ]
             }
         },
@@ -88,19 +88,7 @@
             },
             "value": {
                 "none": [
-                    "mobile, pan"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Lighting"
-                ]
-            },
-            "value": {
-                "none": [
-                    "backlighting"
+                    "mobile, pan, tracking"
                 ]
             }
         },
@@ -119,7 +107,7 @@
     ],
     "summary": {
         "none": [
-            "A man runs around a corner."
+            "A man runs down an alley."
         ]
     },
     "thumbnail": [
