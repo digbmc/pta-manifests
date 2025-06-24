@@ -178,6 +178,46 @@
                         }
                     ]
                 }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/canvas/1/81fa4e3e-b85d-40b6-a01b-1d137ab9d60f",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-06-24T15:26:04.554Z",
+                                    "creator": "Alice Tweedy McGrath",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>Fortunately for the owner of the wrecked car, two car repair shops can be found on this strip of the road.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/canvas/1#xywh=1566,251,329,169"
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/canvas/1/cd7b4b86-1fd3-4105-95c3-bf8fdd92e846",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-06-24T15:26:28.803Z",
+                                    "creator": "Alice Tweedy McGrath",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>The dynamic red car (Lena) crashes past a stationary blue car (Barry) in the background.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00242/canvas/1#xywh=991,481,159,147"
+                        }
+                    ]
+                }
             ]
         }
     ]
