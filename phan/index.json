@@ -6043,7 +6043,7 @@
             "type": "Manifest",
             "label": {
                 "none": [
-                    "PHAN.15023"
+                    "PHAN-15023"
                 ]
             }
         },

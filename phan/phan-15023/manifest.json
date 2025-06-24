@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "none": [
-            "PHAN.15023"
+            "PHAN-15023"
         ]
     },
     "metadata": [
@@ -97,7 +97,7 @@
     ],
     "homepage": [
         {
-            "id": "PHAN.15023",
+            "id": "PHAN-15023",
             "type": "Text",
             "format": "text/html",
             "label": {
@@ -115,7 +115,7 @@
             "width": 1920,
             "label": {
                 "none": [
-                    "PHAN.15023"
+                    "PHAN-15023"
                 ]
             },
             "thumbnail": [
