@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://digitalscholarship.brynmawr.edu/pta/punc/phan-04257/tiles",
+  "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-04257/tiles",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",

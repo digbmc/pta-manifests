@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://digbmc.github.io/pta-manifests/punc/phan-14350/manifest.json",
+    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14350/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -100,7 +100,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/phan-14350/tiles/full/300,169/0/default.jpg",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14350/tiles/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -121,7 +121,7 @@
     ],
     "items": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/phan-14350/canvas/1",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14350/canvas/1",
             "type": "Canvas",
             "height": 1080,
             "width": 1920,
@@ -132,7 +132,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/phan-14350/tiles/full/300,169/0/default.jpg",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14350/tiles/full/300,169/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 169,
@@ -141,23 +141,23 @@
             ],
             "items": [
                 {
-                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/phan-14350/canvas/1/annopage-1",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14350/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/phan-14350/canvas/1/annopage-1/anno-1",
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14350/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/phan-14350/canvas/1",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14350/canvas/1",
                             "body": {
-                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/phan-14350/tiles/full/1920,1080/0/default.jpg",
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14350/tiles/full/1920,1080/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1080,
                                 "width": 1920,
                                 "service": [
                                     {
-                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/phan-14350/tiles",
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14350/tiles",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
