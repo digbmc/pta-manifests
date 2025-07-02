@@ -846,15 +846,6 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00835/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "PHAN-00835"
-                ]
-            }
-        },
-        {
             "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00843/manifest.json",
             "type": "Manifest",
             "label": {
@@ -1944,11 +1935,11 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-02820/manifest.json",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-02819/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "PHAN-02820"
+                    "PHAN-02819"
                 ]
             }
         },
@@ -3609,11 +3600,11 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-03554/manifest.json",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-05354/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "PHAN-03554"
+                    "PHAN-05354"
                 ]
             }
         },
@@ -5040,11 +5031,11 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12625/manifest.json",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12645/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "PHAN-12625"
+                    "PHAN-12645"
                 ]
             }
         },
@@ -6039,7 +6030,7 @@
             }
         },
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan.15023/manifest.json",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-15023/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [

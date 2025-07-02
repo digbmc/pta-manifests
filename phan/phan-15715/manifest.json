@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12332/manifest.json",
+    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-15715/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
-            "PHAN-12332"
+            "PHAN-15715"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "none": [
-                    "1:23:32"
+                    "1:57:15"
                 ]
             }
         },
@@ -40,7 +40,7 @@
             },
             "value": {
                 "none": [
-                    "close-up"
+                    "medium shot"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "none": [
-                    "high"
+                    "low"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "none": [
-                    "handheld, fixed"
+                    "fixed"
                 ]
             }
         },
@@ -88,19 +88,19 @@
             },
             "value": {
                 "none": [
-                    "three shot"
+                    "dirty single"
                 ]
             }
         }
     ],
     "summary": {
         "none": [
-            "Three people talk"
+            "Man holds fork and knife in his hands as woman watches"
         ]
     },
     "thumbnail": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12332/tiles/full/300,169/0/default.jpg",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-15715/tiles/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -109,7 +109,7 @@
     ],
     "homepage": [
         {
-            "id": "PHAN-12332",
+            "id": "PHAN-15715",
             "type": "Text",
             "format": "text/html",
             "label": {
@@ -121,18 +121,18 @@
     ],
     "items": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12332/canvas/1",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-15715/canvas/1",
             "type": "Canvas",
             "height": 1080,
             "width": 1920,
             "label": {
                 "none": [
-                    "PHAN-12332"
+                    "PHAN-15715"
                 ]
             },
             "thumbnail": [
                 {
-                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12332/tiles/full/300,169/0/default.jpg",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-15715/tiles/full/300,169/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 169,
@@ -141,23 +141,23 @@
             ],
             "items": [
                 {
-                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12332/canvas/1/annopage-1",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-15715/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12332/canvas/1/annopage-1/anno-1",
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-15715/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12332/canvas/1",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-15715/canvas/1",
                             "body": {
-                                "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12332/tiles/full/1920,1080/0/default.jpg",
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-15715/tiles/full/1920,1080/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1080,
                                 "width": 1920,
                                 "service": [
                                     {
-                                        "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-12332/tiles",
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-15715/tiles",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
