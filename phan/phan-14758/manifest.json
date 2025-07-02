@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14758/manifest.json",
+    "id": "https://digbmc.github.io/pta-manifests/phan/phan-14758/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -76,7 +76,7 @@
             },
             "value": {
                 "none": [
-                    "mobie, handheld,pan"
+                    "mobile, handheld, pan"
                 ]
             }
         },

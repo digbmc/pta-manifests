@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan.15023/manifest.json",
+    "id": "https://digbmc.github.io/pta-manifests/phan/phan-02819/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
-            "PHAN-15023"
+            "PHAN-02819"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "none": [
-                    "1:50:23"
+                    "0:28:19"
                 ]
             }
         },
@@ -29,6 +29,30 @@
             "value": {
                 "none": [
                     "Phantom Thread"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "medium shot"
                 ]
             }
         },
@@ -71,6 +95,18 @@
         {
             "label": {
                 "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "low key"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
                     "Composition"
                 ]
             },
@@ -83,12 +119,12 @@
     ],
     "summary": {
         "none": [
-            "Man sits with hands together in front of his face"
+            "A woman with glasses on looks down at her notebook."
         ]
     },
     "thumbnail": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan.15023/tiles/full/300,169/0/default.jpg",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-02819/tiles/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -97,7 +133,7 @@
     ],
     "homepage": [
         {
-            "id": "PHAN-15023",
+            "id": "PHAN-02819",
             "type": "Text",
             "format": "text/html",
             "label": {
@@ -109,18 +145,18 @@
     ],
     "items": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan.15023/canvas/1",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-02819/canvas/1",
             "type": "Canvas",
             "height": 1080,
             "width": 1920,
             "label": {
                 "none": [
-                    "PHAN-15023"
+                    "PHAN-02819"
                 ]
             },
             "thumbnail": [
                 {
-                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan.15023/tiles/full/300,169/0/default.jpg",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-02819/tiles/full/300,169/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 169,
@@ -129,23 +165,23 @@
             ],
             "items": [
                 {
-                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan.15023/canvas/1/annopage-1",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-02819/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan.15023/canvas/1/annopage-1/anno-1",
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-02819/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://digitalscholarship.brynmawr.edu/pta/phan/phan.15023/canvas/1",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-02819/canvas/1",
                             "body": {
-                                "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan.15023/tiles/full/1920,1080/0/default.jpg",
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-02819/tiles/full/1920,1080/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1080,
                                 "width": 1920,
                                 "service": [
                                     {
-                                        "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan.15023/tiles",
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-02819/tiles",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
