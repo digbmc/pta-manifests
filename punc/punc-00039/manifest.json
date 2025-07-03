@@ -1,1 +1,292 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/punc/punc-00039/manifest.json","type":"Manifest","label":{"none":["PUNC-00039"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["0:00:39"]}},{"label":{"none":["Film"]},"value":{"none":["Punch-Drunk Love"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["long shot"]}},{"label":{"none":["Angle"]},"value":{"none":["eye-level"]}},{"label":{"none":["Location"]},"value":{"none":["interior"]}},{"label":{"none":["Movement"]},"value":{"none":["mobile, handheld"]}},{"label":{"none":["Lighting"]},"value":{"none":["low key"]}},{"label":{"none":["Composition"]},"value":{"none":["single shot"]}},{"label":{"none":["Duration"]},"value":{"none":["long take"]}}],"summary":{"none":["A man sits at a desk on the phone, in the corner of an empty room."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PUNC-00039","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PUNC-00039"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/fb2b69cc-ff7d-4cd4-82ff-e1ac3ae65d66","type":"Annotation","motivation":"commenting","body":[{"created":"2025-06-23T16:49:25.205Z","creator":"Cameron Boucher","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>The opening shot of the film establishes Barry’s outsider position within his social circles: he is situated in the corner of his warehouse, isolated from the rest of the world. It is a cavernous space—his sanctuary, his Fortress of Solitude—with all the potential to be filled with emotion and passion. His blue suit, purchased only recently, the viewer will soon learn, makes him blend into the blue paint as if he is simply a decoration. He is easy to ignore. Additionally, this shot frames Barry off center, visually indicating he is strange and a bit \"off.\" He is facing the left side of the frame, with little breathing room in terms of the shot's composition, which suggests a character who is trapped or constrained, as we will soon discover in the film's following scenes.</p><p></p><p>The film introduces Barry to us through an act of mediated communication (speaking on the telephone), since he is not a fluid communicator and has trouble relating to others, so the phone serves as a way to establish both his desire to deeply connect and his inability to do so.&nbsp;</p><p></p><p>His first words are \"Yes, I am still on hold,\" which adequately encapsulate Barry before he meets Lena: he is isolated, lonely, and closed to the outside world. In other words, his life is on hold.</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1#xywh=388,317,263,206"},{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/ab1a2a69-2c46-4fa3-a18b-b97b0ce3ef60","type":"Annotation","motivation":"commenting","body":[{"created":"2025-06-23T16:50:30.738Z","creator":"Cameron Boucher","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>This is a non-traditional first shot, as it does not establish the viewers in time or place: the character is initially away from the camera and we cannot see his face, he is alone in large room that could be located anywhere. In addition, the background shows a divide between light and dark (blue and white) that denotes a split, foreshadowing Barry’s alienation and the rift between his state of mind and his (lack of) action. The sense of alienation pervades this first shot in different ways, most saliently because we do not know the character, his name, or anything else about him, creating a rarified viewing experience that can potentially unsettle those watching.</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1#xywh=14,153,72,67"}]},{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/c0ea8db1-a76e-4c8f-9e0a-36b18a0183b6","type":"Annotation","motivation":"commenting","body":[{"created":"2025-06-24T15:25:19.091Z","creator":"Cameron Boucher","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>This is a non-traditional first shot, as it does not establish the viewers in time or place: the character is initially away from the camera and we cannot see his face, he is alone in large room that could be located anywhere. In addition, the background shows a divide between light and dark (blue and white) that denotes a split, foreshadowing Barry’s alienation and the rift between his state of mind and his (lack of) action. The sense of alienation pervades this first shot in different ways, most saliently because we do not know the character, his name, or anything else about him, creating a rarified viewing experience that can potentially unsettle those watching.​<br><br>As Ethan Warren writes, \"With <em>Punch-Drunk Love</em>, Anderson created a film in which alienation is not merely an element of the form, it <em>is</em> the form\" (<em>The Cinema of Paul Thomas Anderson</em>, 122).</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1#xywh=15,153,69,67"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00039/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PUNC-00039"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:00:39"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Punch-Drunk Love"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "interior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "mobile, handheld"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "low key"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "single shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Duration"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long take"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A man sits at a desk on the phone, in the corner of an empty room."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PUNC-00039",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PUNC-00039"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/page/p1",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/page/p1",
+                                    "type": "AnnotationPage",
+                                    "items": [
+                                        {
+                                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/fb2b69cc-ff7d-4cd4-82ff-e1ac3ae65d66",
+                                            "type": "Annotation",
+                                            "motivation": "commenting",
+                                            "body": [
+                                                {
+                                                    "created": "2025-06-23T16:49:25.205Z",
+                                                    "creator": "Cameron Boucher",
+                                                    "purpose": "commenting",
+                                                    "type": "TextualBody",
+                                                    "format": "text/html",
+                                                    "value": "<p>The opening shot of the film establishes Barry’s outsider position within his social circles: he is situated in the corner of his warehouse, isolated from the rest of the world. It is a cavernous space—his sanctuary, his Fortress of Solitude—with all the potential to be filled with emotion and passion. His blue suit, purchased only recently, the viewer will soon learn, makes him blend into the blue paint as if he is simply a decoration. He is easy to ignore. Additionally, this shot frames Barry off center, visually indicating he is strange and a bit \"off.\" He is facing the left side of the frame, with little breathing room in terms of the shot's composition, which suggests a character who is trapped or constrained, as we will soon discover in the film's following scenes.</p><p></p><p>The film introduces Barry to us through an act of mediated communication (speaking on the telephone), since he is not a fluid communicator and has trouble relating to others, so the phone serves as a way to establish both his desire to deeply connect and his inability to do so.&nbsp;</p><p></p><p>His first words are \"Yes, I am still on hold,\" which adequately encapsulate Barry before he meets Lena: he is isolated, lonely, and closed to the outside world. In other words, his life is on hold.</p>"
+                                                }
+                                            ],
+                                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1#xywh=388,317,263,206"
+                                        },
+                                        {
+                                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/ab1a2a69-2c46-4fa3-a18b-b97b0ce3ef60",
+                                            "type": "Annotation",
+                                            "motivation": "commenting",
+                                            "body": [
+                                                {
+                                                    "created": "2025-06-23T16:50:30.738Z",
+                                                    "creator": "Cameron Boucher",
+                                                    "purpose": "commenting",
+                                                    "type": "TextualBody",
+                                                    "format": "text/html",
+                                                    "value": "<p>This is a non-traditional first shot, as it does not establish the viewers in time or place: the character is initially away from the camera and we cannot see his face, he is alone in large room that could be located anywhere. In addition, the background shows a divide between light and dark (blue and white) that denotes a split, foreshadowing Barry’s alienation and the rift between his state of mind and his (lack of) action. The sense of alienation pervades this first shot in different ways, most saliently because we do not know the character, his name, or anything else about him, creating a rarified viewing experience that can potentially unsettle those watching.</p>"
+                                                }
+                                            ],
+                                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1#xywh=14,153,72,67"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/c0ea8db1-a76e-4c8f-9e0a-36b18a0183b6",
+                                    "type": "Annotation",
+                                    "motivation": "commenting",
+                                    "body": [
+                                        {
+                                            "created": "2025-06-24T15:25:19.091Z",
+                                            "creator": "Cameron Boucher",
+                                            "purpose": "commenting",
+                                            "type": "TextualBody",
+                                            "format": "text/html",
+                                            "value": "<p>This is a non-traditional first shot, as it does not establish the viewers in time or place: the character is initially away from the camera and we cannot see his face, he is alone in large room that could be located anywhere. In addition, the background shows a divide between light and dark (blue and white) that denotes a split, foreshadowing Barry’s alienation and the rift between his state of mind and his (lack of) action. The sense of alienation pervades this first shot in different ways, most saliently because we do not know the character, his name, or anything else about him, creating a rarified viewing experience that can potentially unsettle those watching.​<br><br>As Ethan Warren writes, \"With <em>Punch-Drunk Love</em>, Anderson created a film in which alienation is not merely an element of the form, it <em>is</em> the form\" (<em>The Cinema of Paul Thomas Anderson</em>, 122).</p>"
+                                        }
+                                    ],
+                                    "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1#xywh=15,153,69,67"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/9f8a4f44-41db-46e3-9df9-f05c5b93b62a",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-03T17:23:01.077Z",
+                                    "creator": "Cameron Boucher",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>The opening shot of the film establishes Barry’s outsider position within his social circles: he is situated in the corner of his warehouse, isolated from the rest of the world. It is a cavernous space—his sanctuary, his Fortress of Solitude—with all the potential to be filled with emotion and passion. His blue suit, purchased only recently, the viewer will soon learn, makes him blend into the blue paint as if he is simply a decoration. He is easy to ignore. Additionally, this shot frames Barry off center, visually indicating he is strange and a bit \"off.\" He is facing the left side of the frame, with little breathing room in terms of the shot's composition, which suggests a character who is trapped or constrained, as we will soon discover in the film's following scenes.</p><p></p><p>The film introduces Barry to us through an act of mediated communication (speaking on the telephone), since he is not a fluid communicator and has trouble relating to others, so the phone serves as a way to establish both his desire to deeply connect and his inability to do so.&nbsp;</p><p></p><p>His first words are \"Yes, I am still on hold,\" which adequately encapsulate Barry before he meets Lena: he is isolated, lonely, and closed to the outside world. In other words, his life is on hold.</p><p></p><p>In another instance of serendipity, the person Barry speaks to, Carter, says that his extension is 215. Lena's apartment number is 216.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1#xywh=391,331,226,181"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
