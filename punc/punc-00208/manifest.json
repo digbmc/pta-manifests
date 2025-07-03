@@ -202,6 +202,30 @@
                         }
                     ]
                 }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/canvas/1/87f634f7-92af-49c5-9086-28e99a83ecd0",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-06-24T15:00:10.006Z",
+                                    "creator": "Alice Tweedy McGrath",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>The camera that follows Barry seems to be handheld (and slightly shaky), reinforcing the instability audiences might feel not knowing his name, where he is, or anything else about him. The rack focus and cut to yet another slightly shaky camera into the street reinforces the rarified scene and offers a sense that audiences are&nbsp;in his shoes. The silence in the scene creates a strong contrast with the loud and shocking crash that follows, adding to the rarified tenor of Punch-Drunk Love's opening sequence.​</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/canvas/1#xywh=6,148,880,797"
+                        }
+                    ]
+                }
             ]
         }
     ]
