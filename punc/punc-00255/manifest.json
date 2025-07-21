@@ -190,6 +190,30 @@
                         }
                     ]
                 }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00255/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00255/canvas/1/12c04bdf-af64-46f9-ba86-130ab4399e8f",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-21T19:06:03.979Z",
+                                    "creator": "Cameron Boucher",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>Barry lightly shakes his head as if he’s not ready to engage with the harmonium or this challenge to his status quo.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00255/canvas/1#xywh=866,178,283,257"
+                        }
+                    ]
+                }
             ]
         }
     ]
