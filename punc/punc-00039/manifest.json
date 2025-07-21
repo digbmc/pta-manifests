@@ -202,6 +202,52 @@
                         }
                     ]
                 }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [          
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/9f8a4f44-41db-46e3-9df9-f05c5b93b62a",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-03T17:23:01.077Z",
+                                    "creator": "Cameron Boucher",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>The opening shot of the film establishes Barry’s outsider position within his social circles: he is situated in the corner of his warehouse, isolated from the rest of the world. It is a cavernous space—his sanctuary, his Fortress of Solitude—with all the potential to be filled with emotion and passion. His blue suit, purchased only recently, the viewer will soon learn, makes him blend into the blue paint as if he is simply a decoration. He is easy to ignore. Additionally, this shot frames Barry off center, visually indicating he is strange and a bit \"off.\" He is facing the left side of the frame, with little breathing room in terms of the shot's composition, which suggests a character who is trapped or constrained, as we will soon discover in the film's following scenes.</p><p></p><p>The film introduces Barry to us through an act of mediated communication (speaking on the telephone), since he is not a fluid communicator and has trouble relating to others, so the phone serves as a way to establish both his desire to deeply connect and his inability to do so.&nbsp;</p><p></p><p>His first words are \"Yes, I am still on hold,\" which adequately encapsulate Barry before he meets Lena: he is isolated, lonely, and closed to the outside world. In other words, his life is on hold.</p><p></p><p>In another instance of serendipity, the person Barry speaks to, Carter, says that his extension is 215. Lena's apartment number is 216.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1#xywh=391,331,226,181"
+                        }
+                    ]
+                },
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/page/p2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1/7f013ab4-ca76-4668-9969-cb08496353e4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-21T18:58:20.796Z",
+                                    "creator": "Cameron Boucher",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>This is a non-traditional first shot, as it does not establish the viewers in time or place: the character is initially away from the camera and we cannot see his face—he is alone in large room that could be located anywhere. In addition, the background shows a divide between light and dark (white and blue) that denotes a split, foreshadowing Barry’s alienation and the rift between his state of mind and his (lack of) action. The sense of alienation pervades this first shot in different ways, most saliently because we do not know the character, his name, or anything else about him, creating a rarified viewing experience that can potentially unsettle those watching.​</p><p></p><p>As Ethan Warren writes, \"With &lt;i&gt;Punch-Drunk Love&lt;/i&gt;, Anderson created a film in which alienation is not merely an element of the form, it &lt;i&gt;is&lt;/i&gt; the form\" (&lt;i&gt;The Cinema of Paul Thomas Anderson&lt;/i&gt;, 122).</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00039/canvas/1#xywh=27,153,103,74"
+                        }
+                    ]
+                }
             ]
         }
     ]
