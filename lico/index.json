@@ -1,0 +1,4737 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/lico/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Licorice Pizza"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00021/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00021/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00021"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00027/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00027"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00037/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00037"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00039/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00039"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00049/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00049"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00056/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00056"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00108/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00108"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00111/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00111"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00115/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00115"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00126/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00126"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00137/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00137"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00332/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00332"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00404/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00404"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00421/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00421"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00444/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00444"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00450/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00450"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00500/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00500"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00511/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00511"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00527/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00527"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00533/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00533"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00542/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00542"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00550/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00550"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00615/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00615"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00617/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00617"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00627/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00627"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00637/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00637"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00645/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00645"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00653/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00653"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00658/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00658"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00711/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00711"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00805/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00805"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00808/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00808"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00844/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00844"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00911/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00911"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-00929/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-00929"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01023/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01023"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01049/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01049"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01124/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01124"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01137/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01137"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01152/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01152"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01211/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01211"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01214/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01214"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01220/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01220"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01223/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01223"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01225/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01225"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01227/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01227"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01234/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01234"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01246/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01246"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01252/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01252"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01313/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01313"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01327/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01327"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01339/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01339"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01356/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01356"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01402/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01402"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01414/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01414"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01419/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01419"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01438/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01438"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01446/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01446"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01524/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01524"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01526/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01526"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01532/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01532"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01551/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01551"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01552/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01552"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01611/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01611"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01618/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01618"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01621/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01621"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01626/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01626"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01636/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01636"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01705/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01705"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01721/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01721"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01732/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01732"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01750/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01750"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01756/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01756"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01808/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01808"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01811/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01811"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01839/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01839"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01911/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01911"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01913/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01913"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01917/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01917"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01923/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01923"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01938/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01938"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-01959/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-01959"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02004/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02004"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02016/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02016"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02020/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02020"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02031/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02031"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02038/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02038"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02047/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02047"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02112/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02112"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02123/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02123"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02132/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02132"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02144/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02144"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02149/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02149"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02154/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02154"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02157/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02157"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02202/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02202"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02212/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02212"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02218/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02218"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02222/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02222"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02240/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02240"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02244/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02244"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02249/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02249"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02258/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02258"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02306/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02306"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02307/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02307"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02311/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02311"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02327/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02327"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02333/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02333"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02341/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02341"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02346/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02346"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02357/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02357"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02410/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02410"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02414/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02414"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02433/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02433"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02438/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02438"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02444/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02444"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02448/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02448"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02456/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02456"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02514/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02514"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02519/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02519"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02541/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02541"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02543/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02543"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02548/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02548"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02557/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02557"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02607/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02607"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02614/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02614"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02627/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02627"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02631/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02631"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02640/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02640"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02658/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02658"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02703/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02703"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02707/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02707"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02810/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02810"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02818/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02818"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02822/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02822"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02825/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02825"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02840/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02840"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02844/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02844"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02904/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02904"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02912/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02912"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02915/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02915"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02924/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02924"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02932/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02932"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02942/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02942"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-02956/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-02956"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03002/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03002"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03037/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03037"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03100/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03100"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03102/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03102"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03110/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03110"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03143/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03143"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03153/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03153"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03209/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03209"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03252/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03252"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03331/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03331"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03402/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03402"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03413/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03413"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03421/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03421"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03430/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03430"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03521/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03521"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03533/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03533"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03537/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03537"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03551/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03551"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03556/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03556"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03608/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03608"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03619/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03619"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03637/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03637"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03644/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03644"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03700/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03700"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03712/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03712"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03726/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03726"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03740/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03740"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03749/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03749"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03753/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03753"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03808/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03808"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03825/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03825"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03856/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03856"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03909/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03909"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03933/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03933"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-03940/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-03940"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04002/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04002"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04019/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04019"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04026/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04026"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04119/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04119"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04121/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04121"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04127/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04127"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04137/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04137"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04141/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04141"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04244/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04244"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04246/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04246"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04257/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04257"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04258/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04258"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04301/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04301"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04309"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04330/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04330"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04345/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04345"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04347/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04347"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04355/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04355"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04407/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04407"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04425/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04425"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04433/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04433"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04446/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04446"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04458/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04458"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04506/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04506"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04554/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04554"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04612/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04612"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04618/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04618"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04629/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04629"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04644/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04644"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04653/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04653"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04704/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04704"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04713/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04713"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04820/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04820"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04832/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04832"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04836/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04836"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04859/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04859"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04912/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04912"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04925/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04925"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04939/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04939"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-04951/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-04951"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05228/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05228"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05300/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05300"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05311/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05311"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05320/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05320"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05328/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05328"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05336/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05336"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05339/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05339"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05344/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05344"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05410/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05410"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05412/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05412"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05426/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05426"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05515/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05515"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05519/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05519"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05524/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05524"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05538/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05538"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05553/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05553"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05601/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05601"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05608/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05608"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05614/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05614"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05617/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05617"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05620/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05620"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05628/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05628"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05631/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05631"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05644/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05644"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05716/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05716"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05725/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05725"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05750/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05750"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05801/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05801"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05813/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05813"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05832/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05832"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05839/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05839"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05855/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05855"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05912/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05912"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05916"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05922/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05922"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05923/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05923"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05941/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05941"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-05947/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-05947"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10006/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10006"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10020/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10020"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10026/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10026"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10041/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10041"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10055/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10055"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10108/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10108"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10111/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10111"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10123/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10123"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10134/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10134"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10143/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10143"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10151/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10151"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10217/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10217"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10328/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10328"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10333/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10333"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10349/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10349"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10453/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10453"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10502/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10502"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10505/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10505"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10533/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10533"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10539/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10539"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10540/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10540"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10556/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10556"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10610/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10610"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10614/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10614"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10629/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10629"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10636/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10636"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10711/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10711"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10718/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10718"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10724/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10724"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10924/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10924"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10943/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10943"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-10947/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-10947"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11007/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11007"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11108/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11108"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11115/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11115"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11154/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11154"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11158/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11158"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11205/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11205"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11232/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11232"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11239/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11239"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11247/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11247"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11248/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11248"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11254/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11254"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11255/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11255"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11314/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11314"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11320/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11320"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11323/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11323"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11230"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11336/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11336"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11342/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11342"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11347/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11347"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11350/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11350"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11412/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11412"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11454/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11454"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11516/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11516"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11520/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11520"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11531/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11531"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11542/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11542"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11546/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11546"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11559/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11559"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11606/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11606"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11613/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11613"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11617/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11617"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11620/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11620"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11632/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11632"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11649/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11649"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11706/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11706"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11725/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11725"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11754/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11754"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11812/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11812"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11842/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11842"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11845/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11845"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11851/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11851"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11910/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11910"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11918/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11918"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11952/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11952"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-11956/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-11956"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12003/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12003"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12018/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12018"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12041/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12041"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12047/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12047"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12122/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12122"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12125/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12125"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12254/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12254"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12316/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12316"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12334/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12334"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12351/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12351"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12355/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12355"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12408/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12408"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12421/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12421"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12433/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12433"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12438/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12438"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12453/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12453"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12458/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12458"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12504/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12504"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12511/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12511"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12516/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12516"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12518/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12518"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12524/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12524"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12530/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12530"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12542/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12542"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12548/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12548"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12603/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12603"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12628/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12628"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12651/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12651"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12702/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12702"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12806/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12806"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12813/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12813"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12832/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12832"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12850/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12850"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12856/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12856"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12902/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12902"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12939/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12939"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-12957/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-12957"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13001/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13001"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13012/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13012"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13021/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13021"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13029/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13029"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13048/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13048"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13052/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13052"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13057/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13057"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13100/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13100"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13105/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13105"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13108/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13108"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13112/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13112"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13120/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13120"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13128/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13128"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13156/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13156"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13206/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13206"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13210/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13210"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13242/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13242"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13333/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13333"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13348/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13348"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13358/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13358"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13414/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13414"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13422/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13422"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13436/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13436"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13439/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13439"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13455/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13455"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13537/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13537"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13539/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13539"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13541/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13541"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13555/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13555"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13602/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13602"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13611/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13611"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13646/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13646"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13704/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13704"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13728/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13728"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13735/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13735"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13825/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13825"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13844/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13844"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13901/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13901"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13904/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13904"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13909/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13909"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13917/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13917"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13933/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13933"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13938/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13938"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13948/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13948"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13952/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13952"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-13956/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-13956"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14007/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14007"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14026/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14026"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14032/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14032"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14045/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14045"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14101"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14122/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14122"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14133/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14133"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14137/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14137"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14208/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14208"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14230"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14245/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14245"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14303/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14303"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14309"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14320/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14320"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14400/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14400"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14427/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14427"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14449/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14449"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14507/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14507"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14515/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14515"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14532/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14532"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14539/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14539"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14544/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14544"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14558/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14558"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14651/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14651"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14703/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14703"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14711/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14711"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14742/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14742"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14823/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14823"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14836/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14836"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14853/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14853"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14908/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14908"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14927/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14927"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14940/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14940"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14948/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14948"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14950/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14950"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-14957/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-14957"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15001/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15001"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15002/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15002"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15017/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15017"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15021/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15021"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15049/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15049"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15057/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15057"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15102/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15102"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15107/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15107"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15117/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15117"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15130/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15130"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15158/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15158"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15207/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15207"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15214/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15214"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15248/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15248"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15312/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15312"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15358/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15358"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15423/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15423"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15434/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15434"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15510/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15510"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15540/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15540"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15608/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15608"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15622/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15622"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15640/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15640"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15651/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15651"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15653/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15653"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15700/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15700"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15716/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15716"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15748/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15748"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15824/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15824"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15845/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15845"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-15850/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-15850"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20003/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20003"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20037/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20037"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20043/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20043"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20102/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20102"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20127/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20127"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20157/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20157"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20226/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20226"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20242/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20242"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20252/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20252"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20303/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20303"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20315/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20315"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20318/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20318"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20323/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20323"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20330/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20330"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20347/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20347"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20358/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20358"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20408/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20408"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20420/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20420"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20424/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20424"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20425/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20425"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20449/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20449"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20454/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20454"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20515/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20515"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20517/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20517"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20526/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20526"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20532/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20532"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20541/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20541"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20542/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20542"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20547/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20547"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20550/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20550"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20606/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20606"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20616/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20616"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20619/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20619"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20622/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20622"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20632/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20632"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20635/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20635"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20753/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20753"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-20852/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-20852"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/lico/lico-21309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "LICO-21309"
+                ]
+            }
+        }
+    ]
+}
