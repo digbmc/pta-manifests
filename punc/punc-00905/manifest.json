@@ -1,1 +1,220 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/punc/punc-00905/manifest.json","type":"Manifest","label":{"none":["PUNC-00905"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["0:09:05"]}},{"label":{"none":["Film"]},"value":{"none":["Punch-Drunk Love"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["close-up"]}},{"label":{"none":["Angle"]},"value":{"none":["low"]}},{"label":{"none":["Location"]},"value":{"none":["interior"]}},{"label":{"none":["Movement"]},"value":{"none":["fixed"]}},{"label":{"none":["Lighting"]},"value":{"none":["high key"]}},{"label":{"none":["Composition"]},"value":{"none":["single shot"]}}],"summary":{"none":["A man holds up his hands to shield himself from a sudden bright light."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PUNC-00905","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PUNC-00905"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1/190b1885-c977-4e81-8a23-a15b0333aa0b","type":"Annotation","motivation":"commenting","body":[{"created":"2025-07-31T19:04:57.865Z","creator":"Cameron Boucher","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>There’s yet another dramatic shift in lighting as Barry’s right-hand man Lance (played by Luis Guzmán, a previous PTA collaborator from <em>Boogie Nights</em> and <em>Magnolia</em>) pulls up another garage door. Such a drastic change is too much for Barry, whose face turns into a monstrous grimace. In this scene in particular, PTA plays with Adam Sandler’s image as a musical, slapstick, and physical comedian in one of his first dramatic (or at least more dramatic) roles. Roger Ebert's <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.youtube.com/watch?v=8xHaaeXOh7I\">review</a> of the film addresses this deconstruction of the standard Sandler character.</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1#xywh=734,195,455,583"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00905/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PUNC-00905"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:09:05"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Punch-Drunk Love"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "close-up"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "low"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "interior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "fixed"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "high key"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "single shot"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A man holds up his hands to shield himself from a sudden bright light."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PUNC-00905",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PUNC-00905"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1/190b1885-c977-4e81-8a23-a15b0333aa0b",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-31T19:04:57.865Z",
+                                    "creator": "Cameron Boucher",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>There’s yet another dramatic shift in lighting as Barry’s right-hand man Lance (played by Luis Guzmán, a previous PTA collaborator from <i>Boogie Nights</i> and <i>Magnolia</i>) pulls up another garage door. Such a drastic change is too much for Barry, whose face turns into a monstrous grimace. In this scene in particular, PTA plays with Adam Sandler’s image as a musical, slapstick, and physical comedian in one of his first dramatic (or at least more dramatic) roles. Roger Ebert's <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.youtube.com/watch?v=8xHaaeXOh7I\">review</a> of the film addresses this deconstruction of the standard Sandler character.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00905/canvas/1#xywh=734,195,455,583"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
