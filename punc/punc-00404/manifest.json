@@ -1,1 +1,248 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/punc/punc-00404/manifest.json","type":"Manifest","label":{"none":["PUNC-00404"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["0:04:04"]}},{"label":{"none":["Film"]},"value":{"none":["Punch-Drunk Love"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["full shot"]}},{"label":{"none":["Angle"]},"value":{"none":["eye-level"]}},{"label":{"none":["Location"]},"value":{"none":["interior"]}},{"label":{"none":["Movement"]},"value":{"none":["mobile, handheld, tracking"]}},{"label":{"none":["Lighting"]},"value":{"none":["low key"]}},{"label":{"none":["Composition"]},"value":{"none":["single shot"]}},{"label":{"none":["Duration"]},"value":{"none":["long take"]}}],"summary":{"none":["A man walks out of an open entryway."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PUNC-00404","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PUNC-00404"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1/3e8e2452-9738-4e23-b5c6-208cf477c886","type":"Annotation","motivation":"commenting","body":[{"created":"2025-07-31T16:33:27.177Z","creator":"Naveah","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>As Barry nears the open threshold, the white wall before him becomes more and more prominent, visually shrinking the open space of the sky. This shift symbolizes the limits of his ability to open up at this point in the film. At the end of the film, &lt;a href=\"<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://digbmc.github.io/pt-annotated/items/punc-12430.html\">https://digbmc.github.io/pt-annotated/items/punc-12430.html</a><a target=\"_blank\" rel=\"noreferrer\" class=\"sharedcomments-hyperlink\" href=\"https://digbmc.github.io/pt-annotated/items/punc-12430.html%22%3E\">\"&gt;</a> in a similar shot&lt;/a&gt;, the gap created by the garage door and the white wall is wider and consistent throughout the scene. In this later shot, Barry has defeated the Mattress Man and overcome his difficulty in opening up to others.</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1#xywh=611,169,859,46"},{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1/909a39ac-7c2f-4197-91a7-c398ff0d7431","type":"Annotation","motivation":"commenting","body":[{"created":"2025-07-31T16:33:56.932Z","creator":"Naveah","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>In this scene, as in the first, Barry walks from the shadows to the outside world, which is even brighter now as he will  meet Lena in a moment. Early in the film, Barry takes tentative steps outside his comfort zone (the warehouse); he is not entirely reclusive and clearly wants to engage but has trouble doing so.</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1#xywh=578,264,945,523"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00404/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PUNC-00404"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:04:04"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Punch-Drunk Love"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "full shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "interior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "mobile, handheld, tracking"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "low key"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "single shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Duration"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long take"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A man walks out of an open entryway."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PUNC-00404",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PUNC-00404"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1/3e8e2452-9738-4e23-b5c6-208cf477c886",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-31T16:33:27.177Z",
+                                    "creator": "Naveah",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>As Barry nears the open threshold, the white wall before him becomes more and more prominent, visually shrinking the open space of the sky. This shift symbolizes the limits of his ability to open up at this point in the film. At the end of the film, <a href=\"https://digbmc.github.io/pt-annotated/items/punc-12430.html\">in a similar shot</a>, the gap created by the garage door and the white wall is wider and consistent throughout the scene. In this later shot, Barry has defeated the Mattress Man and overcome his difficulty in opening up to others.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1#xywh=611,169,859,46"
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1/909a39ac-7c2f-4197-91a7-c398ff0d7431",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-31T16:33:56.932Z",
+                                    "creator": "Naveah",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>In this scene, as in the first, Barry walks from the shadows to the outside world, which is even brighter now as he will  meet Lena in a moment. Early in the film, Barry takes tentative steps outside his comfort zone (the warehouse); he is not entirely reclusive and clearly wants to engage but has trouble doing so.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00404/canvas/1#xywh=578,264,945,523"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

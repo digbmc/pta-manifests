@@ -1,1 +1,264 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/punc/punc-00517/manifest.json","type":"Manifest","label":{"none":["PUNC-00517"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["0:05:17"]}},{"label":{"none":["Film"]},"value":{"none":["Punch-Drunk Love"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["medium shot"]}},{"label":{"none":["Angle"]},"value":{"none":["eye-level"]}},{"label":{"none":["Location"]},"value":{"none":["exterior"]}},{"label":{"none":["Movement"]},"value":{"none":["mobile, handheld"]}},{"label":{"none":["Lighting"]},"value":{"none":["high key"]}},{"label":{"none":["Composition"]},"value":{"none":["two shot"]}},{"label":{"none":["Duration"]},"value":{"none":["long take"]}}],"summary":{"none":["A man and a woman stand outside as the woman fiddles with her car keys."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PUNC-00517","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PUNC-00517"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/1175a3fd-e184-49c9-99da-8d425821fddb","type":"Annotation","motivation":"commenting","body":[{"created":"2025-07-31T16:49:44.757Z","creator":"Naveah","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>Curiously, Lena calls the harmonium a “piano” even though later she is the one who informs Barry what it really is. She does not recognize the harmonium as such at this point of the film, likely because their connection is not realized—the last shot, when they achieve harmony with the world through their relationship, show them both facing this instrument.</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1#xywh=976,325,144,116"},{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/2b648284-038d-4175-a202-59bef35c809e","type":"Annotation","motivation":"commenting","body":[{"created":"2025-07-31T16:50:01.202Z","creator":"Naveah","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>In another embodied metaphor, Lena hands Barry the “key to her heart” for his safekeeping. The lens flare between them features hues of blue and red, bringing them together.&nbsp;</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1#xywh=1307,626,211,155"},{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/c4c4976b-fe9a-48ad-a87e-c77584f49971","type":"Annotation","motivation":"commenting","body":[{"created":"2025-07-31T16:50:26.360Z","creator":"Naveah","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>Barry and Lena’s most significant interactions (first meeting, kisses at her apartment and the Royal Hawaiian Hotel, closing shot) occur at and very close to thresholds, marking the way their love and relationship open them up to a new life together, a new realm that Barry may or may not step out into.&nbsp;As &lt;a href=\"<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://digbmc.github.io/pt-annotated/items/punc-00415.html&quot;&gt;this\">https://digbmc.github.io/pt-annotated/items/punc-00415.html\"&gt;this</a> shot shows&lt;/a&gt;, the doors alongside this wall are closed. Barry's warehouse, however, is open. While he is not yet ready, this contrast hints that he will soon be now that Lena has appeared.</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1#xywh=-2,787,182,149"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00517/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PUNC-00517"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:05:17"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Punch-Drunk Love"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "medium shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "exterior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "mobile, handheld"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "high key"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "two shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Duration"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long take"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A man and a woman stand outside as the woman fiddles with her car keys."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PUNC-00517",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PUNC-00517"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/1175a3fd-e184-49c9-99da-8d425821fddb",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-31T16:49:44.757Z",
+                                    "creator": "Naveah",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>Curiously, Lena calls the harmonium a “piano” even though later she is the one who informs Barry what it really is. She does not recognize the harmonium as such at this point of the film, likely because their connection is not realized—the last shot, when they achieve harmony with the world through their relationship, show them both facing this instrument.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1#xywh=976,325,144,116"
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/2b648284-038d-4175-a202-59bef35c809e",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-31T16:50:01.202Z",
+                                    "creator": "Naveah",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>In another embodied metaphor, Lena hands Barry the “key to her heart” for his safekeeping. The lens flare between them features hues of blue and red, bringing them together.&nbsp;</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1#xywh=1307,626,211,155"
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1/c4c4976b-fe9a-48ad-a87e-c77584f49971",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-31T16:50:26.360Z",
+                                    "creator": "Naveah",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>Barry and Lena’s most significant interactions (first meeting, kisses at her apartment and the Royal Hawaiian Hotel, closing shot) occur at and very close to thresholds, marking the way their love and relationship open them up to a new life together, a new realm that Barry may or may not step out into. As <a href=\"https://digbmc.github.io/pt-annotated/items/punc-00415.html\">this shot shows</a>, the doors alongside this wall are closed. Barry's warehouse, however, is open. While he is not yet ready, this contrast hints that he will soon be now that Lena has appeared.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00517/canvas/1#xywh=-2,787,182,149"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

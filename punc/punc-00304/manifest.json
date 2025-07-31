@@ -1,1 +1,208 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/punc/punc-00304/manifest.json","type":"Manifest","label":{"none":["PUNC-00304"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["0:03:04"]}},{"label":{"none":["Film"]},"value":{"none":["Punch-Drunk Love"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["long shot"]}},{"label":{"none":["Angle"]},"value":{"none":["eye-level"]}},{"label":{"none":["Location"]},"value":{"none":["exterior"]}},{"label":{"none":["Movement"]},"value":{"none":["mobile, handheld, tracking"]}},{"label":{"none":["Lighting"]},"value":{"none":["low key"]}}],"summary":{"none":["A harmonium in the street."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PUNC-00304","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PUNC-00304"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1/0b4ff72f-07f9-40f9-b995-d39408189695","type":"Annotation","motivation":"commenting","body":[{"created":"2025-07-29T19:38:01.388Z","creator":"Naveah","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>The average shot length (ASL) of &lt;i&gt;Punch-Drunk Love&lt;/i&gt; is 15.4 seconds, the highest ASL of all PTA's films despite it being the shortest (Nedomansky, \"Paul Thomas Anderson\").</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1#xywh=12,153,235,176"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00304/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PUNC-00304"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:03:04"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Punch-Drunk Love"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "exterior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "mobile, handheld, tracking"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "low key"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A harmonium in the street."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PUNC-00304",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PUNC-00304"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1/0b4ff72f-07f9-40f9-b995-d39408189695",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-29T19:38:01.388Z",
+                                    "creator": "Naveah",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>The average shot length (ASL) of <i>Punch-Drunk Love</i> is 15.4 seconds, the highest ASL of all PTA's films despite it being the shortest (Nedomansky, \"Paul Thomas Anderson\").</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00304/canvas/1#xywh=12,153,235,176"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
