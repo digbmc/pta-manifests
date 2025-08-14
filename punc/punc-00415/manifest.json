@@ -1,1 +1,264 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/punc/punc-00415/manifest.json","type":"Manifest","label":{"none":["PUNC-00415"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["0:04:15"]}},{"label":{"none":["Film"]},"value":{"none":["Punch-Drunk Love"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["long shot"]}},{"label":{"none":["Angle"]},"value":{"none":["eye-level, over the shoulder"]}},{"label":{"none":["Location"]},"value":{"none":["exterior"]}},{"label":{"none":["Movement"]},"value":{"none":["mobile, handheld, tracking"]}},{"label":{"none":["Lighting"]},"value":{"none":["high key"]}},{"label":{"none":["Composition"]},"value":{"none":["single shot"]}},{"label":{"none":["Duration"]},"value":{"none":["long take"]}}],"summary":{"none":["A man with his back to the camera spots a harmonium at the far end of his business's alley."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PUNC-00415","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PUNC-00415"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/4d3de765-b39e-48d9-86f7-95dc54c59a3a","type":"Annotation","motivation":"commenting","body":[{"created":"2025-07-31T16:36:05.749Z","creator":"Naveah","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>This door right in front of Barry (and by the looks of it, every other door along this wall) is closed right before Lena appears. The mise-en-scène reflects Barry's lack of openness.</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1#xywh=678,409,197,125"},{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/bb02713d-b05a-48da-82da-de963d3b04b1","type":"Annotation","motivation":"commenting","body":[{"created":"2025-07-31T16:36:31.180Z","creator":"Naveah","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>Right on cue after Barry walks outside again, Lena turns into the parking lot. It’s almost as if destiny has called him to exit his warehouse to witness her appearance.&nbsp;Barry moves from the dark of the warehouse, through the garage door, and into the sunshine, where he sees the harmonium and Lena pulling into the parking lot. Again, we have an embodiment of his emotional turmoil reflected in the cinematography. He is shifting from his isolated, dark inner world to something brighter manifested in the form of the instrument and the unknown woman he soon meets. He, of course, responds with a “Whoa” and nervous drinking.</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1#xywh=1144,375,130,113"},{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/54f7c159-d100-4d6c-92c7-ee37fc648433","type":"Annotation","motivation":"commenting","body":[{"created":"2025-07-31T16:36:52.509Z","creator":"Naveah","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>According to PTA, the lens flares \"were specific for the most part. hitting on a line or a moment, etc. some just happened because the Sun wanted to contribute something nice.... There really is no direction you can give to the Sun....for instance, when Lena meets Barry - the Sun directed those lens flares and I thought he/she did a wonderful job....\" (Cigarettes &amp; Red Vines, \"Interview: Exclusive Fan-Submitted Q&amp;A).</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1#xywh=1566,150,345,200"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00415/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PUNC-00415"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:04:15"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Punch-Drunk Love"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level, over the shoulder"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "exterior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "mobile, handheld, tracking"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "high key"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "single shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Duration"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long take"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A man with his back to the camera spots a harmonium at the far end of his business's alley."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PUNC-00415",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PUNC-00415"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/4d3de765-b39e-48d9-86f7-95dc54c59a3a",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-31T16:36:05.749Z",
+                                    "creator": "Naveah",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>This door right in front of Barry (and by the looks of it, every other door along this wall) is closed right before Lena appears. The mise-en-scène reflects Barry's lack of openness.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1#xywh=678,409,197,125"
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/bb02713d-b05a-48da-82da-de963d3b04b1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-31T16:36:31.180Z",
+                                    "creator": "Naveah",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>Right on cue after Barry walks outside again, Lena turns into the parking lot. It’s almost as if destiny has called him to exit his warehouse to witness her appearance.&nbsp;Barry moves from the dark of the warehouse, through the garage door, and into the sunshine, where he sees the harmonium and Lena pulling into the parking lot. Again, we have an embodiment of his emotional turmoil reflected in the cinematography. He is shifting from his isolated, dark inner world to something brighter manifested in the form of the instrument and the unknown woman he soon meets. He, of course, responds with a “Whoa” and nervous drinking.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1#xywh=1144,375,130,113"
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1/54f7c159-d100-4d6c-92c7-ee37fc648433",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-07-31T16:36:52.509Z",
+                                    "creator": "Naveah",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>According to PTA, the lens flares \"were specific for the most part. hitting on a line or a moment, etc. some just happened because the Sun wanted to contribute something nice.... There really is no direction you can give to the Sun....for instance, when Lena meets Barry - the Sun directed those lens flares and I thought he/she did a wonderful job....\" (Cigarettes &amp; Red Vines, \"Interview: Exclusive Fan-Submitted Q&amp;A\").</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00415/canvas/1#xywh=1566,150,345,200"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
