@@ -1,1 +1,208 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/punc/punc-00318/manifest.json","type":"Manifest","label":{"none":["PUNC-00318"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["0:03:18"]}},{"label":{"none":["Film"]},"value":{"none":["Punch-Drunk Love"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["medium shot"]}},{"label":{"none":["Angle"]},"value":{"none":["eye-level"]}},{"label":{"none":["Location"]},"value":{"none":["exterior"]}},{"label":{"none":["Movement"]},"value":{"none":["mobile, handheld, tracking"]}},{"label":{"none":["Lighting"]},"value":{"none":["low key"]}}],"summary":{"none":["A harmonium in the street."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PUNC-00318","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PUNC-00318"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1/9d54d565-6a90-4858-9b6d-4b645f705fc9","type":"Annotation","motivation":"commenting","body":[{"created":"2025-08-14T18:26:19.045Z","creator":"Olivia Flores","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>As the camera closes in, the harmonium remains off center. If, as <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://digbmc.github.io/pt-annotated/items/punc-00249.html\">the previous annotation suggests</a>, the instrument symbolizes Lena, the framing also conveys the sense of \"being off.\"</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1#xywh=187,319,1342,594"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00318/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PUNC-00318"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:03:18"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Punch-Drunk Love"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "medium shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "exterior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "mobile, handheld, tracking"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "low key"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A harmonium in the street."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PUNC-00318",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PUNC-00318"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1/9d54d565-6a90-4858-9b6d-4b645f705fc9",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-08-14T18:26:19.045Z",
+                                    "creator": "Olivia Flores",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>As the camera closes in, the harmonium remains off center. If, as <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://digbmc.github.io/pt-annotated/items/punc-00249.html\">the previous annotation suggests</a>, the instrument symbolizes Lena, the framing also conveys the sense of \"being off.\"</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00318/canvas/1#xywh=187,319,1342,594"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
