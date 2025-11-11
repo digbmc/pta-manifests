@@ -1,1 +1,224 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/punc/punc-10749/manifest.json","type":"Manifest","label":{"none":["PUNC-10749"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["1:07:49"]}},{"label":{"none":["Film"]},"value":{"none":["Punch-Drunk Love"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["medium shot"]}},{"label":{"none":["Angle"]},"value":{"none":["eye-level"]}},{"label":{"none":["Location"]},"value":{"none":["exterior"]}},{"label":{"none":["Movement"]},"value":{"none":["mobile, handheld, tracking, pan, crane, tilt"]}},{"label":{"none":["Lighting"]},"value":{"none":["low key"]}},{"label":{"none":["Composition"]},"value":{"none":["group shot"]}},{"label":{"none":["Duration"]},"value":{"none":["long take"]}}],"summary":{"none":["A crowded outdoor restaurant with a live band."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PUNC-10749","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PUNC-10749"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1/page/p2","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1/b65fd5c5-ece0-4920-8789-0f5f4beee1ee","type":"Annotation","motivation":"commenting","body":[{"created":"2025-08-29T17:14:32.724Z","creator":"Olivia Flores","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>PTA cast the Ladies K in the film after hearing them perform while he visited Hawaii. See <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://cigsandredvines.blogspot.com/2002/11/interview-practical-insanity.html\">Kam</a> for group member Kaila Gouveia's recollections of the process.</p>"}],"target":"https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1#xywh=776,293,1132,645"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-10749/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PUNC-10749"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1:07:49"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Punch-Drunk Love"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "medium shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "exterior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "mobile, handheld, tracking, pan, crane, tilt"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "low key"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "group shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Duration"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long take"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A crowded outdoor restaurant with a live band."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PUNC-10749",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PUNC-10749"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1/b65fd5c5-ece0-4920-8789-0f5f4beee1ee",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-08-29T17:14:32.724Z",
+                                    "creator": "Olivia Flores",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>PTA cast the Ladies K in the film after hearing them perform while he visited Hawaii. See <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://cigsandredvines.blogspot.com/2002/11/interview-practical-insanity.html\">Kam</a> for group member Kaila Gouveia's recollections of the process.</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-10749/canvas/1#xywh=776,293,1132,645"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -211,13 +211,7 @@
                                 }
                             ],
                             "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00255/canvas/1#xywh=866,178,283,257"
-                        }
-                    ]
-                },
-                {
-                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00255/canvas/1/page/p2",
-                    "type": "AnnotationPage",
-                    "items": [
+                        },
                         {
                             "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00255/canvas/1/7fd06fca-503d-4e9a-917f-d829ece7fb07",
                             "type": "Annotation",
