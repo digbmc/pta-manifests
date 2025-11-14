@@ -1,0 +1,5160 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/twbb/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "There Will Be Blood"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00031/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00031/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00031"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00049/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00049"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00057/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00057"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00144/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00144"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00206/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00206"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00213/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00213"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00224/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00224"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00239/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00239"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00246/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00246"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00346/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00346"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00415/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00415"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00442/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00442"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00446/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00446"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00453/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00453"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00549/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00549"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00609/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00609"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00624/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00624"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00634/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00634"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00644/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00644"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00649/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00649"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00703/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00703"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00713/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00713"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00745/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00745"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00800/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00800"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00819/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00819"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00827/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00827"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00848/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00848"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00849/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00849"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00903/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00903"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00922/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00922"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00930/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00930"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00937/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00937"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00939/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00939"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00941/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00941"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00948/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00948"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-00958/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-00958"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01051/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01051"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01116/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01116"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01130/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01130"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01135/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01135"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01144/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01144"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01152/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01152"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01204/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01204"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01211/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01211"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01237/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01237"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01245/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01245"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01252/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01252"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01258/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01258"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01311/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01311"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01317/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01317"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01320/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01320"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01331/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01331"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01336/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01336"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01342/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01342"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01406/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01406"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01422/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01422"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01425/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01425"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01504/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01504"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01552/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01552"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01608/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01608"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01639/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01639"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01654/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01654"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01700/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01700"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01702/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01702"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01709/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01709"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01726/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01726"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01741/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01741"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01749/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01749"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01803/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01803"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01804/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01804"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01912/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01912"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01917/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01917"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-01944/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-01944"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02005/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02005"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02044/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02044"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02151/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02151"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02211/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02211"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02217/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02217"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02228/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02228"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02232/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02232"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02234/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02234"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02305/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02305"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02310/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02310"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02317/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02317"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02420/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02420"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02439/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02439"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02458/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02458"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02527/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02527"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02551/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02551"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02600/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02600"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02622/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02622"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02629/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02629"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02702/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02702"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02711/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02711"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02809/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02809"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02830/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02830"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02838/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02838"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02902/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02902"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02922/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02922"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02937/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02937"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-02956/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-02956"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03010/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03010"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03018/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03018"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03038/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03038"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03051/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03051"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03055/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03055"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03100/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03100"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03116/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03116"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03129/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03129"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03134/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03134"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03150/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03150"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03156/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03156"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03204/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03204"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03255/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03255"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03309"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03425/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03425"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03501/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03501"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03503/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03503"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03606/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03606"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03608/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03608"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03613/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03613"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03621/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03621"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03625/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03625"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03628/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03628"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03631/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03631"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03640/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03640"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03646/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03646"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03720/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03720"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03722/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03722"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03736/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03736"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03739/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03739"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03746/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03746"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03806/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03806"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03814/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03814"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03823/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03823"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03848/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03848"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03851/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03851"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03905/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03905"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03913/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03913"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03920/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03920"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03931/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03931"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03939/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03939"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-03942/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-03942"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04000/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04000"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04006/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04006"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04013/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04013"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04033/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04033"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04035/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04035"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04043/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04043"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04124/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04124"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04127/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04127"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04134/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04134"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04151/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04151"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04209/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04209"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04212/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04212"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04230"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04241/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04241"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04315/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04315"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04318/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04318"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04321/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04321"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04325/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04325"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04328/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04328"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04335/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04335"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04348/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04348"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04402/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04402"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04406/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04406"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04418/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04418"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04421/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04421"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04426/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04426"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04446/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04446"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04453/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04453"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04507/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04507"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04514/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04514"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04524/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04524"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04546/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04546"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04552/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04552"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04600/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04600"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04608/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04608"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04625/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04625"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04630/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04630"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04740/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04740"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04750/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04750"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04804/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04804"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04810/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04810"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04819/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04819"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04834/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04834"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04919/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04919"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04933/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04933"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-04955/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-04955"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05001/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05001"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05024/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05024"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05043/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05043"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05053/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05053"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05100/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05100"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05106/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05106"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05110/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05110"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05114/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05114"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05148/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05148"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05204/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05204"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05215/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05215"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05230"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05238/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05238"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05243/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05243"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05247/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05247"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05249/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05249"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05250/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05250"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05251/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05251"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05256/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05256"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05324/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05324"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05328/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05328"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05337/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05337"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05406/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05406"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05417/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05417"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05421/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05421"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05424/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05424"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05433/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05433"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05453/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05453"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05627/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05627"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05654/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05654"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05703/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05703"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05705/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05705"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05723/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05723"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05732/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05732"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05754/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05754"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05851/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05851"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05857/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05857"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05901/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05901"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05906/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05906"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05911/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05911"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05924/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05924"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05939/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05939"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-05950/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-05950"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10000/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10000"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10003/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10003"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10011/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10011"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10038/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10038"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10045/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10045"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10047/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10047"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10048/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10048"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10053/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10053"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10056/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10056"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10103/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10103"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10107/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10107"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10110/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10110"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10114/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10114"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10126/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10126"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10129/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10129"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10140/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10140"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10143/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10143"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10151/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10151"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10156/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10156"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10217/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10217"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10252/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10252"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10306/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10306"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10313/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10313"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10319/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10319"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10322/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10322"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10343/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10343"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10354/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10354"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10406/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10406"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10425/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10425"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10444/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10444"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10501/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10501"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10511/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10511"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10519/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10519"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10530/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10530"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10547/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10547"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10555/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10555"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10611/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10611"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10657/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10657"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10707/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10707"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10714/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10714"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10722/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10722"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10749/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10749"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10803/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10803"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10810/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10810"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10839/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10839"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10901/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10901"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10916"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10925/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10925"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10926/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10926"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10939/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10939"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-10943/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-10943"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11002/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11002"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11005/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11005"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11014/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11014"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11026/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11026"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11032/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11032"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11036/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11036"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11119/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11119"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11210/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11210"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11224/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11224"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11243/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11243"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11254/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11254"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11304/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11304"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11307/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11307"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11319/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11319"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11322/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11322"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11326/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11326"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11335/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11335"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11351/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11351"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11405/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11405"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11439/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11439"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11447/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11447"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11450/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11450"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11456/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11456"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11500/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11500"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11518/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11518"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11530/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11530"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11554/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11554"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11615/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11615"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11638/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11638"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11643/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11643"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11706/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11706"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11745/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11745"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11816/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11816"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11938/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11938"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11947/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11947"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-11952/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-11952"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12018/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12018"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12027/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12027"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12101"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12107/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12107"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12131/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12131"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12143/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12143"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12220/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12220"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12250/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12250"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12351/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12351"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12358/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12358"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12405/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12405"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12412/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12412"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12420/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12420"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12426/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12426"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12435/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12435"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12442/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12442"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12508/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12508"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12631/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12631"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12642/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12642"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12736/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12736"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12745/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12745"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12752/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12752"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12801/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12801"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12804/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12804"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12820/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12820"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12840/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12840"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12905/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12905"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-12921/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-12921"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13011/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13011"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13016/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13016"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13024/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13024"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13046/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13046"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13054/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13054"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13103/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13103"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13109/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13109"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13127/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13127"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13133/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13133"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13138/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13138"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13143/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13143"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13202/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13202"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13413/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13413"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13417/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13417"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13428/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13428"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13432/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13432"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13503/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13503"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13540/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13540"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13606/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13606"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13617/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13617"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13626/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13626"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13636/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13636"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13647/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13647"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13658/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13658"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13709/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13709"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13716/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13716"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13726/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13726"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13728/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13728"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13733/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13733"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13737/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13737"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13740/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13740"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13743/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13743"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13745/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13745"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13752/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13752"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13758/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13758"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13808/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13808"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13810/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13810"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13815/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13815"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13818/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13818"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13827/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13827"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13833/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13833"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13839/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13839"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13902/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13902"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13905/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13905"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13911/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13911"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13915/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13915"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13922/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13922"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13928/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13928"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13932/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13932"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13939/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13939"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13953/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13953"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-13957/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-13957"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14011/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14011"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14050/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14050"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14058/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14058"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14110/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14110"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14130/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14130"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14142/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14142"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14152/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14152"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14203/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14203"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14214/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14214"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14217/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14217"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14218/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14218"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14229/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14229"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14309"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14317/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14317"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14329/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14329"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14354/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14354"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14510/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14510"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14538/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14538"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14540/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14540"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14548/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14548"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14612/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14612"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14617/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14617"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14628/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14628"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14632/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14632"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14642/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14642"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14652/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14652"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14714/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14714"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14724/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14724"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14732/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14732"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14735/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14735"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14752/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14752"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14806/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14806"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14814/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14814"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14831/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14831"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14849/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14849"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14901/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14901"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14920/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14920"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-14931/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-14931"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15108/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15108"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15123/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15123"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15139/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15139"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15211/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15211"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15224/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15224"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15230"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15254/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15254"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15302/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15302"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15315/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15315"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15335/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15335"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15339/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15339"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15410/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15410"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15431/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15431"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15439/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15439"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15500/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15500"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15508/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15508"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15513/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15513"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15515/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15515"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15529/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15529"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15541/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15541"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15550/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15550"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15610/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15610"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15623/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15623"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15641/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15641"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15650/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15650"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15700/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15700"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15804/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15804"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15912/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15912"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15922/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15922"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15932/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15932"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15954/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15954"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-15958/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-15958"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20030/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20030"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20042/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20042"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20046/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20046"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20108/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20108"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20113/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20113"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20127/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20127"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20134/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20134"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20146/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20146"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20212/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20212"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20230"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20300/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20300"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20327/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20327"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20355/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20355"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20416/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20416"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20430/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20430"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20437/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20437"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20442/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20442"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20502/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20502"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20507/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20507"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20513/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20513"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20528/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20528"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20534/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20534"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20542/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20542"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20614/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20614"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20620/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20620"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20635/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20635"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20642/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20642"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20648/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20648"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20653/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20653"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20658/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20658"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20707/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20707"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20714/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20714"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20725/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20725"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20732/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20732"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20740/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20740"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20746/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20746"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20752/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20752"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20813/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20813"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20843/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20843"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20853/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20853"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20902/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20902"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20907/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20907"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20912/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20912"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20916"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20924/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20924"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-20953/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-20953"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21005/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21005"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21110/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21110"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21123/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21123"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21204/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21204"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21224/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21224"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21337/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21337"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21354/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21354"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21501/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21501"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21520/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21520"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21525/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21525"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21558/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21558"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21615/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21615"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21624/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21624"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21638/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21638"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21659/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21659"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21720/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21720"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21805/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21805"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21818/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21818"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21822/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21822"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21825/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21825"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21855/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21855"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21911/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21911"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-21925/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-21925"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22053/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22053"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22157/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22157"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22209/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22209"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22326/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22326"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22334/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22334"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22404/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22404"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22405/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22405"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22413/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22413"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22451/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22451"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22523/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22523"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22551/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22551"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22635/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22635"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22638/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22638"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22714/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22714"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22823/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22823"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22829/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22829"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22833/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22833"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22844/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22844"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22855/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22855"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22909/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22909"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22920/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22920"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22929/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22929"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22936/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22936"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22939/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22939"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22948/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22948"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-22954/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-22954"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-23005/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-23005"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-23012/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-23012"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-23021/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-23021"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-23040/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-23040"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-23051/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-23051"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-23105/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-23105"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-23109/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-23109"
+                ]
+            }
+        }
+    ]
+}
