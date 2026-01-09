@@ -1,0 +1,5322 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/boog/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Boogie Nights"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00059/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00059/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00059"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00107/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00107"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00127/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00127"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00148/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00148"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00237/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00237"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00325/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00325"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00348/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00348"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00354/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00354"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00359/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00359"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00417/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00417"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00434/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00434"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00502/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00502"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00506/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00506"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00520/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00520"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00522/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00522"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00633/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00633"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00747/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00747"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00757/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00757"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00809/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00809"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00818/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00818"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00824/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00824"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00837/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00837"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00854/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00854"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00858/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00858"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00859/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00859"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00900/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00900"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00901/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00901"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00907/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00907"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00950/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00950"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01039/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01039"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01043/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01043"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01111/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01111"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01134/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01134"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01203/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01203"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01231/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01231"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01247/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01247"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01248/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01248"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01249/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01249"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01251/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01251"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01304/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01304"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01314/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01314"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01336/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01336"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01410/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01410"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01413/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01413"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01414/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01414"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01416/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01416"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01427/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01427"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01435/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01435"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01451/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01451"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01531/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01531"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01554/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01554"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01606/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01606"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01609/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01609"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01633/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01633"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01636/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01636"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01638/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01638"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01656/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01656"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01720/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01720"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01723/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01723"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01748/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01748"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01753/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01753"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01755/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01755"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01757/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01757"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01812/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01812"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01821/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01821"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01824/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01824"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01902/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01902"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01928/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01928"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01939/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01939"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01946/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01946"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-01953/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-01953"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02006/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02006"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02014/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02014"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02025/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02025"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02041/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02041"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02109/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02109"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02139/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02139"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02209/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02209"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02232/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02232"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02321/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02321"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02335/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02335"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02502/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02502"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02505/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02505"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02510/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02510"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02526/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02526"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02528/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02528"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02547/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02547"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02557/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02557"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02648/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02648"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02658/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02658"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02710/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02710"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02727/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02727"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02735/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02735"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02740/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02740"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02802/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02802"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02808/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02808"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02812/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02812"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02817/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02817"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02821/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02821"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02836/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02836"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02849/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02849"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-02916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-02916"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03059/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03059"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03102/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03102"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03103/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03103"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03107/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03107"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03113/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03113"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03116/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03116"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03118/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03118"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03122/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03122"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03129/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03129"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03200/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03200"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03235/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03235"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03328/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03328"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03346/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03346"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03406/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03406"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03425/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03425"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03430/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03430"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03435/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03435"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03443/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03443"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03452/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03452"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03521/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03521"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03533/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03533"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03600/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03600"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03610/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03610"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03615/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03615"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03626/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03626"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03633/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03633"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03641/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03641"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03645/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03645"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03653/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03653"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03713/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03713"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03849/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03849"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03854/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03854"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03858/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03858"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03901/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03901"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03915/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03915"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03927/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03927"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03931/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03931"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03953/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-03953"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04007/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04007"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04020/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04020"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04030/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04030"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04035/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04035"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04037/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04037"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04042/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04042"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04045/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04045"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04056/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04056"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04108/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04108"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04111/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04111"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04118/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04118"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04121/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04121"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04130/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04130"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04203/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04203"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04206/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04206"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04230"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04304/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04304"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04329/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04329"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04331/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04331"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04401/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04401"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04404/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04404"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04423/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04423"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04428/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04428"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04434/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04434"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04441/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04441"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04451/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04451"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04513/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04513"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04530/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04530"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04534/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04534"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04547/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04547"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04607/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04607"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04622/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04622"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04641/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04641"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04705/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04705"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04710/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04710"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04717/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04717"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04727/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04727"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04752/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04752"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04809/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04809"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04832/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04832"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04857/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04857"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04911/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04911"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04925/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04925"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-04931/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-04931"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05025/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05025"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05032/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05032"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05036/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05036"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05045/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05045"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05047/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05047"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05100/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05100"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05131/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05131"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05143/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05143"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05157/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05157"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05203/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05203"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05214/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05214"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05237/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05237"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05254/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05254"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05302/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05302"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05316/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05316"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05329/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05329"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05418/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05418"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05444/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05444"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05458/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05458"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05509/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05509"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05511/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05511"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05521/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05521"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05525/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05525"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05530/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05530"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05532/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05532"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05533/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05533"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05534/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05534"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05537/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05537"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05544/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05544"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05550/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05550"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05551/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05551"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05600/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05600"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05603/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05603"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05616/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05616"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05623/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05623"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05635/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05635"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05641/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05641"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05652/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05652"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05708/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05708"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05716/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05716"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05720/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05720"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05735/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05735"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05739/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05739"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05742/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05742"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05746/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05746"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05811/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05811"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05815/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05815"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05817/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05817"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05820/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05820"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05821/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05821"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05826/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05826"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05829/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05829"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05830/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05830"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05833/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05833"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05836/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05836"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05842/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05842"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05846/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05846"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05851/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05851"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05858/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05858"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05914/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05914"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-05956/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-05956"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10003/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10003"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10007/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10007"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10009/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10009"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10014/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10014"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10016/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10016"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10024/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10024"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10038/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10038"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10043/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10043"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10133/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10133"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10138/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10138"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10144/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10144"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10153/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10153"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10155/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10155"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10200/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10200"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10220/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10220"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10230"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10246/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10246"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10300/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10300"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10303/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10303"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10309"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10310/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10310"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10312/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10312"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10324/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10324"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10330/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10330"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10338/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10338"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10349/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10349"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10404/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10404"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10415/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10415"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10425/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10425"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10438/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10438"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10450/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10450"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10453/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10453"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10456/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10456"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10503/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10503"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10517/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10517"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10530/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10530"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10538/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10538"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10546/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10546"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10558/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10558"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10608/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10608"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10627/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10627"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10633/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10633"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10703/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10703"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10719/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10719"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10743/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10743"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10753/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10753"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10809/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10809"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10841/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10841"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10905/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10905"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10914/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10914"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-10919/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-10919"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11012/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11012"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11037/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11037"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11041/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11041"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11051/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11051"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11121/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11121"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11127/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11127"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11144/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11144"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11157/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11157"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11218/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11218"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11332/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11332"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11405/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11405"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11536/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11536"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11541/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11541"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11553/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11553"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11558/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11558"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11725/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11725"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11823/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11823"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11839/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11839"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11908/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11908"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11916"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-11932/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-11932"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12022/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12022"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12046/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12046"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12101"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12123/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12123"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12137/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12137"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12245/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12245"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12338/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12338"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12415/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12415"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12417/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12417"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12431/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12431"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12432/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12432"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12441/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12441"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12511/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12511"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12529/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12529"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12627/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12627"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12707/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12707"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12759/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12759"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12842/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12842"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12848/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12848"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12857/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12857"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12920/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12920"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12923/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12923"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12924/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12924"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-12947/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-12947"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13019/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13019"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13217/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13217"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13226/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13226"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13227/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13227"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13228/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13228"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13230"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13233/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13233"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13238/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13238"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13302/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13302"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13320/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13320"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13345/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13345"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13350/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13350"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13359/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13359"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13435/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13435"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13445/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13445"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13507/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13507"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13519/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13519"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13523/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13523"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13611/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13611"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13638/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13638"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13705/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13705"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13746/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13746"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13758/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13758"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13817/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13817"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13849/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13849"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13858/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13858"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13902/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13902"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13912/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13912"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13916"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-13952/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-13952"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14013/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14013"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14019/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14019"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14023/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14023"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14034/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14034"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14103/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14103"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14144/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14144"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14148/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14148"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14200/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14200"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14201/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14201"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14206/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14206"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14209/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14209"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14239/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14239"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14244/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14244"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14248/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14248"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14256/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14256"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14308/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14308"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14313/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14313"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14317/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14317"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14324/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14324"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14325/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14325"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14328/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14328"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14329/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14329"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14331/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14331"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14333/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14333"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14336/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14336"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14341/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14341"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14344/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14344"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14347/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14347"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14358/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14358"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14401/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14401"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14407/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14407"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14413/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14413"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14438/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14438"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14452/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14452"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14454/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14454"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14500/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14500"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14508/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14508"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14515/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14515"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14558/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14558"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14559/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14559"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14610/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14610"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14618/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14618"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14640/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14640"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14646/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14646"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14733/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14733"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14738/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14738"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14851/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14851"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14858/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14858"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14911/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14911"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14937/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14937"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14946/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14946"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-14951/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-14951"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15000/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15000"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15014/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15014"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15033/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15033"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15043/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15043"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15153/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15153"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15206/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15206"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15314/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15314"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15318/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15318"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15408/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15408"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15437/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15437"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15458/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15458"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15523/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15523"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15540/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15540"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15546/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15546"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15602/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15602"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15647/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15647"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15658/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15658"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15702/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15702"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15731/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15731"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15832/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15832"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15838/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15838"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15859/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15859"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15913/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15913"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15924/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15924"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15953/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15953"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-15957/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-15957"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20009/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20009"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20022/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20022"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20023/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20023"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20028/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20028"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20031/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20031"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20034/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20034"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20042/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20042"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20054/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20054"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20059/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20059"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20103/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20103"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20112/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20112"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20115/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20115"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20127/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20127"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20149/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20149"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20206/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20206"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20225/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20225"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20230"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20249/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20249"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20320/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20320"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20347/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20347"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20349/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20349"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20351/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20351"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20353/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20353"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20358/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20358"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20404/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20404"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20410/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20410"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20413/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20413"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20414/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20414"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20415/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20415"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20423/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20423"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20429/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20429"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20438/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20438"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20440/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20440"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20441/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20441"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20443/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20443"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20452/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20452"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20500/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20500"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20516/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20516"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20520/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20520"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20521/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20521"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20525/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20525"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20527/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20527"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20528/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20528"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20529/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20529"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20540/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20540"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20645/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20645"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20654/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20654"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20702/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20702"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20703/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20703"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20724/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20724"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20739/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20739"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20752/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20752"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20801/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20801"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20808/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20808"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20820/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20820"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20832/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20832"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20837/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20837"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20850/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20850"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20857/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20857"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20910/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20910"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20926/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20926"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-20934/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-20934"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21004/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21004"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21011/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21011"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21016/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21016"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21024/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21024"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21029/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21029"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21037/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21037"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21051/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21051"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21101"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21109/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21109"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21113/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21113"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21122/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21122"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21129/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21129"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21139/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21139"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21220/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21220"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21221/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21221"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21222/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21222"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21321/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21321"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21343/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21343"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21423/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21423"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21432/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21432"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21445/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21445"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21508/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21508"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21530/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21530"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21531/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21531"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21533/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21533"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21534/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21534"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21537/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21537"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21538/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21538"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21541/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21541"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21545/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21545"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21550/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21550"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21602/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21602"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21625/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21625"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21626/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21626"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21632/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21632"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21639/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21639"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21645/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21645"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21647/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21647"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21652/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21652"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21654/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21654"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21700/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21700"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21702/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21702"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21704/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21704"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21719/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21719"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21728/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21728"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21729/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21729"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21748/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21748"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21804/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21804"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21823/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21823"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21917/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21917"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21944/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21944"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-21952/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-21952"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22010/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22010"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22024/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22024"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22040/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22040"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22044/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22044"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22101/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22101"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22106/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22106"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22131/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22131"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22218/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22218"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22225/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22225"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22236/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22236"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22248/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22248"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22257/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22257"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22318/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22318"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22330/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22330"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22345/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22345"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22410/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22410"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22425/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22425"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22445/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22445"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22517/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22517"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22521/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22521"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22638/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22638"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22709/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22709"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22738/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22738"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-22740/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-22740"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-23005/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-23005"
+                ]
+            }
+        },
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-23525/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-23525"
+                ]
+            }
+        }
+    ]
+}

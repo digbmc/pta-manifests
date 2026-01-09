@@ -1,0 +1,184 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/boog/boog-03915/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "BOOG-03915"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:39:15"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Boogie Nights"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "close-up"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "high"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "interior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "handheld, mobile"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "single shot"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Man cries"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03915/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "BOOG-03915",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03915/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "BOOG-03915"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03915/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03915/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03915/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03915/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03915/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-03915/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
