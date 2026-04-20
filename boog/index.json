@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00059/tiles/full/300,169/0/default.jpg",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00033/tiles/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -17,6 +17,15 @@
         }
     ],
     "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00033/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "BOOG-00033"
+                ]
+            }
+        },
         {
             "id": "https://digitalscholarship.brynmawr.edu/pta/boog/boog-00059/manifest.json",
             "type": "Manifest",
