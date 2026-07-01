@@ -112,11 +112,11 @@
     },
     "thumbnail": [
         {
-            "id": "https://ptannotated.com/iiif/obaa/obaa-14425/tiles/full/169,300/0/default.jpg",
+            "id": "https://ptannotated.com/iiif/obaa/obaa-14425/tiles/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "height": 300,
-            "width": 169
+            "height": 169,
+            "width": 300
         }
     ],
     "homepage": [
@@ -144,11 +144,11 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://ptannotated.com/iiif/obaa/obaa-14425/tiles/full/169,300/0/default.jpg",
+                    "id": "https://ptannotated.com/iiif/obaa/obaa-14425/tiles/full/300,169/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "height": 300,
-                    "width": 169
+                    "height": 169,
+                    "width": 300
                 }
             ],
             "items": [
@@ -162,11 +162,11 @@
                             "motivation": "painting",
                             "target": "https://ptannotated.com/iiif/obaa/obaa-14425/canvas/1",
                             "body": {
-                                "id": "https://ptannotated.com/iiif/obaa/obaa-14425/tiles/full/1080,1920/0/default.jpg",
+                                "id": "https://ptannotated.com/iiif/obaa/obaa-14425/tiles/full/1920,1080/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1920,
-                                "width": 1080,
+                                "height": 1080,
+                                "width": 1920,
                                 "service": [
                                     {
                                         "id": "https://ptannotated.com/iiif/obaa/obaa-14425/tiles",
