@@ -5155,6 +5155,15 @@
                     "TWBB-23109"
                 ]
             }
+        },
+                {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/twbb/twbb-23743/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "TWBB-23743"
+                ]
+            }
         }
     ]
 }
