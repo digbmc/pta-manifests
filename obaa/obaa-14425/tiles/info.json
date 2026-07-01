@@ -19,12 +19,12 @@
   "height": 1080,
   "sizes": [
     {
-      "width": 169,
-      "height": 300
+      "width": 300,
+      "height": 169
     },
     {
-      "width": 1080,
-      "height": 1920
+      "width": 1920,
+      "height": 1080
     }
   ]
 }
