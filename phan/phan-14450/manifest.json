@@ -1,1 +1,245 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/phan/phan-14450/manifest.json","type":"Manifest","label":{"none":["PHAN-14450"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["1:44:50"]}},{"label":{"none":["Film"]},"value":{"none":["Phantom Thread"]}},{"label":{"none":["Distance"]},"value":{"none":["plan américain"]}},{"label":{"none":["Angle"]},"value":{"none":["high"]}},{"label":{"none":["Location"]},"value":{"none":["interior"]}},{"label":{"none":["Movement"]},"value":{"none":["mobile, pan, tracking"]}},{"label":{"none":["Lighting"]},"value":{"none":["backlighting"]}},{"label":{"none":["Composition"]},"value":{"none":["group shot"]}}],"summary":{"none":["A man searches a crowded dance hall from an upper balcony."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PHAN-14450","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PHAN-14450"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/86255e35-c96d-4431-8d4e-9ff757ecedbe","type":"Annotation","motivation":"commenting","body":[{"created":"2026-07-02T20:21:17.616Z","creator":"Ada ","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>While many of PTA’s films frame central characters marginally, <em>Phantom Thread</em> mostly avoids this tactic. This shot is a notable exception: Reynolds is a silhouette on the edge of the brightly-colored frame, further emphasizing his sense of obscurity and exclusion.&nbsp;</p>"}],"target":{"type":"SpecificResource","source":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1","selector":{"type":"FragmentSelector","conformsTo":"http://www.w3.org/TR/media-frags/","value":"xywh=pixel:165.32991640127364,127.36863057324831,430.99771098726126,927.4129179936306"}}}]},{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/page/p2","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/274a90f4-b54b-4d8d-af5f-fdc426871365","type":"Annotation","motivation":"commenting","body":[{"created":"2026-07-02T23:48:08.371Z","creator":"Ada ","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>The most prominent color in this scene is the red of the rocket. This color, and its variants, has been closely associated with Alma throughout <em>Phantom Thread</em>. As Reynolds seeks her out in the crowd at the New Year’s Eve party, it dominates the frame.&nbsp;</p>"}],"target":{"type":"SpecificResource","source":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1","selector":{"type":"FragmentSelector","conformsTo":"http://www.w3.org/TR/media-frags/","value":"xywh=pixel:1296.3042396496812,96.77597531847121,526.8869426751594,481.67645302547766"}}},{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/0e17ae3d-9cce-45c8-93f4-3878431a455b","type":"Annotation","motivation":"commenting","body":[{"created":"2026-07-02T23:48:21.854Z","creator":"Ada ","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>According to set decorator Véronique Melery, “A wonderful team of models and props makers worked two months to create these big puppets and props in real papier-mâché, trying to re-create the mad, fragile and cheap elements made at that time by art students” (Burg, “<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW165587519 BCX4\" href=\"https://www.setdecorators.org/?art=film_decor_features&amp;SHOW=SetDecor_Film_Phantom_Thread\"><u>Set Decore</u></a>”).&nbsp;</p>"}],"target":{"type":"SpecificResource","source":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1","selector":{"type":"FragmentSelector","conformsTo":"http://www.w3.org/TR/media-frags/","value":"xywh=pixel:52.18949044585983,47.279558121019036,283.3280254777069,190.79767117834393"}}}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/phan/phan-14450/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PHAN-14450"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1:44:50"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Phantom Thread"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "plan américain"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "high"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "interior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "mobile, pan, tracking"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "backlighting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "group shot"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A man searches a crowded dance hall from an upper balcony."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PHAN-14450",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PHAN-14450"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/page/p2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/274a90f4-b54b-4d8d-af5f-fdc426871365",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2026-07-02T23:48:08.371Z",
+                                    "creator": "Ada ",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>The most prominent color in this scene is the red of the rocket. This color, and its variants, has been closely associated with Alma throughout <em>Phantom Thread</em>. As Reynolds seeks her out in the crowd at the New Year’s Eve party, it dominates the frame.&nbsp;</p>"
+                                }
+                            ],
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=pixel:1296.3042396496812,96.77597531847121,526.8869426751594,481.67645302547766"
+                                }
+                            }
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/0e17ae3d-9cce-45c8-93f4-3878431a455b",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2026-07-02T23:48:21.854Z",
+                                    "creator": "Ada ",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>According to set decorator Véronique Melery, “A wonderful team of models and props makers worked two months to create these big puppets and props in real papier-mâché, trying to re-create the mad, fragile and cheap elements made at that time by art students” (Burg, “<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW165587519 BCX4\" href=\"https://www.setdecorators.org/?art=film_decor_features&amp;SHOW=SetDecor_Film_Phantom_Thread\"><u>Set Decore</u></a>”).&nbsp;</p>"
+                                }
+                            ],
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=pixel:52.18949044585983,47.279558121019036,283.3280254777069,190.79767117834393"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-14450/canvas/1/page/p3",
+                    "type": "AnnotationPage",
+                    "items": []
+                }
+            ]
+        }
+    ]
+}
