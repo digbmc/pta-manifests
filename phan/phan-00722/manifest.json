@@ -1,1 +1,264 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/phan/phan-00722/manifest.json","type":"Manifest","label":{"none":["PHAN-00722"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["0:07:22"]}},{"label":{"none":["Film"]},"value":{"none":["Phantom Thread"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["full shot"]}},{"label":{"none":["Angle"]},"value":{"none":["eye-level"]}},{"label":{"none":["Location"]},"value":{"none":["interior"]}},{"label":{"none":["Movement"]},"value":{"none":["fixed"]}},{"label":{"none":["Composition"]},"value":{"none":["group shot"]}}],"summary":{"none":["A woman shows off her new dress."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PHAN-00722","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PHAN-00722"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/da69d240-1fde-491b-8d6c-3405ea9765bf","type":"Annotation","motivation":"commenting","body":[],"target":{"type":"SpecificResource","source":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1","selector":{"type":"FragmentSelector","conformsTo":"http://www.w3.org/TR/media-frags/","value":"xywh=pixel:416.56204379562047,342.7883211678832,328.7299270072992,600.7226277372263"}}},{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/74682a3f-c6e3-448d-8a6a-4f5724e882d7","type":"Annotation","motivation":"commenting","body":[{"created":"2026-06-30T14:06:33.428Z","creator":"Clara Smith","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>The scene begins from afar. Viewers simultaneously occupy Reynolds’s point of view as Henrietta enters and can also take in his response (from behind, at least), making out his pleasure in how he grips his mouth and directs his attention to the Countess. After a few moments, the camera begins to pull in, demonstrating Reynolds’s excitement and his desire to appreciate the woman in the dress from a closer vantage point.&nbsp;</p>"}],"target":{"type":"SpecificResource","source":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1","selector":{"type":"FragmentSelector","conformsTo":"http://www.w3.org/TR/media-frags/","value":"xywh=pixel:1207.817518248175,72.91970802919701,342.5145985401459,981.5036496350366"}}},{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/5891c76f-ecbb-4bd5-8828-fc5727e6e2d9","type":"Annotation","motivation":"commenting","body":[{"created":"2026-06-30T14:06:52.262Z","creator":"Clara Smith","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>The dress he designs for the Countess is very reminiscent of Tudor fashion (see <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW74385335 BCX0\" href=\"https://fashionhistory.fitnyc.edu/1530-1539/\"><u>these</u></a> <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW74385335 BCX0\" href=\"https://fashionhistory.fitnyc.edu/1570-1579/\"><u>entries</u></a> on the FIT Fashion History Timeline for examples), in both its style and silhouette. The use of slashing on the bodice, square neckline, lace ruff, rich velvet fabric, and open front overskirt are all modernized versions of classic features of Tudor fashion. This serves as a nod to the Countess’s noble status. (Young, <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW74385335 BCX0\" href=\"https://fashionhistory.fitnyc.edu/1530-1539/\"><u>1530-1539</u></a>, <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW74385335 BCX0\" href=\"https://fashionhistory.fitnyc.edu/1570-1579/\"><u>1570-1579</u></a>)&nbsp;</p>"}],"target":{"type":"SpecificResource","source":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1","selector":{"type":"FragmentSelector","conformsTo":"http://www.w3.org/TR/media-frags/","value":"xywh=pixel:746.463503649635,169.33576642335765,341.5620437956204,855.8321167883212"}}}]},{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/page/p2","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/84987730-e061-47bf-b002-e6e72db05305","type":"Annotation","motivation":"commenting","body":[{"created":"2026-07-07T19:22:09.789Z","creator":"Clara Smith","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>The way Henrietta is presented to Reynolds by two of his employees furthermore underscores the marriage subtext of this scene. They hold up her gown, and she is delivered to him.&nbsp;</p>"}],"target":{"type":"SpecificResource","source":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1","selector":{"type":"FragmentSelector","conformsTo":"http://www.w3.org/TR/media-frags/","value":"xywh=pixel:396.7493415276558,331.2115891132572,339.01448639157155,649.3590869183495"}}}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/phan/phan-00722/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PHAN-00722"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:07:22"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Phantom Thread"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "full shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "interior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "fixed"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "group shot"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A woman shows off her new dress."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PHAN-00722",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PHAN-00722"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/74682a3f-c6e3-448d-8a6a-4f5724e882d7",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2026-06-30T14:06:33.428Z",
+                                    "creator": "Clara Smith",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>The scene begins from afar. Viewers simultaneously occupy Reynolds’s point of view as Henrietta enters and can also take in his response (from behind, at least), making out his pleasure in how he grips his mouth and directs his attention to the Countess. After a few moments, the camera begins to pull in, demonstrating Reynolds’s excitement and his desire to appreciate the woman in the dress from a closer vantage point.&nbsp;</p>"
+                                }
+                            ],
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=pixel:1207.817518248175,72.91970802919701,342.5145985401459,981.5036496350366"
+                                }
+                            }
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/5891c76f-ecbb-4bd5-8828-fc5727e6e2d9",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2026-06-30T14:06:52.262Z",
+                                    "creator": "Clara Smith",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>The dress he designs for the Countess is very reminiscent of Tudor fashion (see <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW74385335 BCX0\" href=\"https://fashionhistory.fitnyc.edu/1530-1539/\"><u>these</u></a> <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW74385335 BCX0\" href=\"https://fashionhistory.fitnyc.edu/1570-1579/\"><u>entries</u></a> on the FIT Fashion History Timeline for examples), in both its style and silhouette. The use of slashing on the bodice, square neckline, lace ruff, rich velvet fabric, and open front overskirt are all modernized versions of classic features of Tudor fashion. This serves as a nod to the Countess’s noble status. (Young, <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW74385335 BCX0\" href=\"https://fashionhistory.fitnyc.edu/1530-1539/\"><u>1530-1539</u></a>, <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW74385335 BCX0\" href=\"https://fashionhistory.fitnyc.edu/1570-1579/\"><u>1570-1579</u></a>)&nbsp;</p>"
+                                }
+                            ],
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=pixel:746.463503649635,169.33576642335765,341.5620437956204,855.8321167883212"
+                                }
+                            }
+                        },
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1/84987730-e061-47bf-b002-e6e72db05305",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2026-07-07T19:22:09.789Z",
+                                    "creator": "Clara Smith",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>The way Henrietta is presented to Reynolds by two of his employees furthermore underscores the marriage subtext of this scene. They hold up her gown, and she is delivered to him.&nbsp;</p>"
+                                }
+                            ],
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-00722/canvas/1",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=pixel:396.7493415276558,331.2115891132572,339.01448639157155,649.3590869183495"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
