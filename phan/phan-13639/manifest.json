@@ -1,1 +1,204 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-manifests/phan/phan-13639/manifest.json","type":"Manifest","label":{"none":["PHAN-13639"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["1:36:39"]}},{"label":{"none":["Film"]},"value":{"none":["Phantom Thread"]}},{"label":{"none":["Distance"]},"value":{"none":["establishing shot"]}},{"label":{"none":["Angle"]},"value":{"none":["low"]}},{"label":{"none":["Location"]},"value":{"none":["exterior"]}},{"label":{"none":["Movement"]},"value":{"none":["fixed"]}},{"label":{"none":["Lighting"]},"value":{"none":["high key"]}}],"summary":{"none":["A ski resort in the midst of snowy mountains."]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PHAN-13639","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PHAN-13639"]},"thumbnail":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1","body":{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1/a77e3b6f-db28-4a06-a281-7c2dd7228d2d","type":"Annotation","motivation":"commenting","body":[{"created":"2026-07-01T13:53:52.256Z","creator":"lucia","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>This scene was shot at the <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW30164256 BCX2\" href=\"https://www.scheidegg-hotels.ch/index_e.php\"><u>Hotel Bellevue des Alpes</u></a> in Wengen, Switzerland. The hotel was also featured in the films <em>The Eiger Sanction</em> (1975) and <em>North Face</em> (2010) (Reelstreets, “<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW30164256 BCX2\" href=\"https://www.reelstreets.com/films/phantom-thread/\"><em><u>Phantom Thread</u></em></a>”).&nbsp;</p>"}],"target":{"type":"SpecificResource","source":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1","selector":{"type":"FragmentSelector","conformsTo":"http://www.w3.org/TR/media-frags/","value":"xywh=pixel:34.285714285714164,120.77922077922068,289.0909090909091,123.11688311688314"}}}]},{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1/page/p2","type":"AnnotationPage","items":[{"id":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1/1cf9ddc4-9a8c-4a30-be27-eead44d27a38","type":"Annotation","motivation":"commenting","body":[{"created":"2026-07-07T19:35:38.648Z","creator":"Clara Smith","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>This scene was shot at the <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW240109707 BCX0\" href=\"https://www.scheidegg-hotels.ch/index_e.php\"><u>Hotel Bellevue des Alpes</u></a> in Wengen, Switzerland. The hotel was also featured in the films <em>The Eiger Sanction</em> (1975) and <em>North Face</em> (2010) (Reelstreets, “<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW240109707 BCX0\" href=\"https://www.reelstreets.com/films/phantom-thread/\"><em><u>Phantom Thread</u></em></a>”).&nbsp;</p>"}],"target":{"type":"SpecificResource","source":"https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1","selector":{"type":"FragmentSelector","conformsTo":"http://www.w3.org/TR/media-frags/","value":"xywh=pixel:279.5939420544338,665.9262510974539,306.7690956979807,111.92054433713793"}}}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-manifests/phan/phan-13639/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PHAN-13639"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1:36:39"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Phantom Thread"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "establishing shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "low"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "exterior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "fixed"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "high key"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A ski resort in the midst of snowy mountains."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PHAN-13639",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PHAN-13639"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1",
+                            "body": {
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1/1cf9ddc4-9a8c-4a30-be27-eead44d27a38",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2026-07-07T19:35:38.648Z",
+                                    "creator": "Clara Smith",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>This scene was shot at the <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW240109707 BCX0\" href=\"https://www.scheidegg-hotels.ch/index_e.php\"><u>Hotel Bellevue des Alpes</u></a> in Wengen, Switzerland. The hotel was also featured in the films <em>The Eiger Sanction</em> (1975) and <em>North Face</em> (2010) (Reelstreets, “<a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW240109707 BCX0\" href=\"https://www.reelstreets.com/films/phantom-thread/\"><em><u>Phantom Thread</u></em></a>”).&nbsp;</p>"
+                                }
+                            ],
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-13639/canvas/1",
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                                    "value": "xywh=pixel:279.5939420544338,665.9262510974539,306.7690956979807,111.92054433713793"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
