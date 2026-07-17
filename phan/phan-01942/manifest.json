@@ -185,61 +185,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-01942/canvas/1/8ddac589-e1d4-435e-a4ab-528c7381397c",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": [
-                {
-                  "created": "2026-07-01T15:20:56.701Z",
-                  "creator": "Clara Smith",
-                  "purpose": "commenting",
-                  "type": "TextualBody",
-                  "format": "text/html",
-                  "value": "<p>Reynolds’s dogs are never seen again. According to an <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW243629047 BCX0\" href=\"https://www.wmagazine.com/story/exclusive-daniel-day-lewis-giving-up-acting-phantom-thread\"><u>exclusive interview Daniel Day-Lewis granted W Magazine,</u></a> he “meticulously invented every aspect of Woodcock’s” life, “[e]ven his dogs: ‘I wanted lurchers,’ Day-Lewis said. ‘I gave so much thought to every single detail. I was probably infuriating.’” The dog pictured in the magazine’s photoshoot resembles the dogs in this scene, which audiences can only glimpse for a few seconds. <em>The Observer’s Book of Dogs</em>, briefly <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW243629047 BCX0\" href=\"https://digbmc.github.io/pt-annotated/items/phan-15235.html\"><u>pictured</u></a> later in the film, describes lurchers as follows: “Artisan-sportsmen, poachers and gipsy caravans all have a fancy for the Lurcher, who sagacity, speed and hardiness suit well the conditions of its owners. This type of dog is not a recognized pure breed, is not included on the Registers of the cynological circles. However, it is an all-purpose utility dog, usually of Greyhound or Whippet shape, which, although ostracized, is a fairly common race in the Midlands and north of England. Height about 24 in. Weight 30—50 lb. Colour black, black-and-tan, tricolour or similar mixtures. Coat short and harsh. Head long and tapering; ears small, rose or pricked; body racy; tail long and thin” (Hubbard, <em>The Observer’s Book of Dogs</em>, 180).&nbsp;&nbsp;</p>"
-                }
-              ],
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-01942/canvas/1",
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "xywh=pixel:541.6629955947136,870.6828193832599,329.0748898678414,193.89867841409693"
-                }
-              }
-            },
-            {
-              "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-01942/canvas/1/a69ae387-bac4-4db0-b08b-ff3a5542ca02",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": [
-                {
-                  "created": "2026-07-01T15:21:09.172Z",
-                  "creator": "Clara Smith",
-                  "purpose": "commenting",
-                  "type": "TextualBody",
-                  "format": "text/html",
-                  "value": "<p><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW104381145 BCX0\" href=\"https://humanehollywood.org/production/phantom-thread/\"><u>According to the Hollywood Humane program</u></a>, the film received full certification from the <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW104381145 BCX0\" href=\"https://www.americanhumane.org/\"><u>American Humane Society</u></a>. They share that “[t]he dogs were transported and kept in the trainers van in custom-built cages.&nbsp; Each cage had a water bowl and soft bed. The dogs were taken out for regular toilet breaks and short walks.”&nbsp;</p>"
-                }
-              ],
-              "target": {
-                "type": "SpecificResource",
-                "source": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-01942/canvas/1",
-                "selector": {
-                  "type": "FragmentSelector",
-                  "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "xywh=pixel:10.264317180616693,42.04845814977972,205.60572687224678,127.96255506607929"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-01942/canvas/1/page/p2",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-01942/canvas/1/21f9425d-3dcb-4a1f-b92e-512e7c36f176",
+              "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-01942/canvas/1/d2f75974-793d-4d90-8bb7-54520a7871bf",
               "type": "Annotation",
               "motivation": "commenting",
               "body": [],
@@ -249,7 +195,31 @@
                 "selector": {
                   "type": "FragmentSelector",
                   "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "xywh=pixel:552.6442953020132,853.1275167785236,337.04697986577196,202.22818791946293"
+                  "value": "xywh=pixel:536.4938271604939,878.9629629629629,342.1234567901233,174.6172839506172"
+                }
+              }
+            },
+            {
+              "id": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-01942/canvas/1/e31686a0-163d-4b8c-9d6a-8b642c41c3d8",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "created": "2026-07-17T18:45:57.987Z",
+                  "creator": "lucia",
+                  "purpose": "commenting",
+                  "type": "TextualBody",
+                  "format": "text/html",
+                  "value": "<p><a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW23165323 BCX2\" href=\"https://humanehollywood.org/production/phantom-thread/\"><u>According to the Hollywood Humane program</u></a>, the film received full certification from the <a target=\"_blank\" rel=\"noreferrer noopener\" class=\"Hyperlink SCXW23165323 BCX2\" href=\"https://www.americanhumane.org/\"><u>American Humane Society</u></a>. They share that “[t]he dogs were transported and kept in the trainers van in custom-built cages.&nbsp; Each cage had a water bowl and soft bed. The dogs were taken out for regular toilet breaks and short walks.”&nbsp;</p>"
+                }
+              ],
+              "target": {
+                "type": "SpecificResource",
+                "source": "https://digitalscholarship.brynmawr.edu/pta/phan/phan-01942/canvas/1",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:31.6049382716049,57.23456790123457,304.9876543209877,175.4074074074074"
                 }
               }
             }
